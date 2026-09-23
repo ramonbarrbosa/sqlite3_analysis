@@ -1,0 +1,2201 @@
+id,data,categoria,descricao,valor,forma_pagamento
+1,2023-01-02,Lazer,Jogos,129.76,Pix
+2,2023-01-02,Alimentação,Supermercado,110.3,Cartão de débito
+3,2023-01-02,Transporte,Aplicativo de transporte,108.26,Dinheiro
+4,2023-01-02,Serviços,Lavanderia,31.52,Dinheiro
+5,2023-01-03,Lazer,Streaming,188.5,Pix
+6,2023-01-04,Educação,Plataforma online,270.33,Dinheiro
+7,2023-01-05,Transporte,Pedágio,142.49,Dinheiro
+8,2023-01-05,Serviços,Salão de beleza,218.99,Cartão de crédito
+9,2023-01-06,Outros,Doação,244.7,Dinheiro
+10,2023-01-06,Lazer,Bar,255.77,Boleto
+11,2023-01-06,Moradia,Internet,789.58,Cartão de crédito
+12,2023-01-07,Alimentação,Delivery,44.37,Dinheiro
+13,2023-01-07,Moradia,Condomínio,1866.19,Cartão de crédito
+14,2023-01-07,Educação,Mensalidade curso,602.7,Cartão de crédito
+15,2023-01-07,Saúde,Consulta médica,139.65,Cartão de débito
+16,2023-01-07,Transporte,Ônibus,43.83,Cartão de crédito
+17,2023-01-07,Alimentação,Delivery,204.86,Boleto
+18,2023-01-07,Transporte,Combustível,17.9,Boleto
+19,2023-01-07,Outros,Presente,205.93,Cartão de crédito
+20,2023-01-08,Educação,Livros,231.81,Dinheiro
+21,2023-01-08,Saúde,Consulta médica,723.61,Boleto
+22,2023-01-08,Outros,Diversos,197.73,Pix
+23,2023-01-09,Alimentação,Feira,36.59,Cartão de débito
+24,2023-01-10,Transporte,Ônibus,110.49,Pix
+25,2023-01-10,Alimentação,Supermercado,85.43,Dinheiro
+26,2023-01-10,Saúde,Consulta médica,405.0,Pix
+27,2023-01-10,Lazer,Jogos,232.53,Cartão de débito
+28,2023-01-11,Saúde,Consulta médica,182.62,Dinheiro
+29,2023-01-11,Alimentação,Restaurante,215.79,Dinheiro
+30,2023-01-12,Transporte,Combustível,48.67,Pix
+31,2023-01-12,Educação,Plataforma online,182.8,Dinheiro
+32,2023-01-12,Educação,Mensalidade curso,615.3,Pix
+33,2023-01-12,Moradia,Água,1166.85,Boleto
+34,2023-01-13,Saúde,Exames,412.25,Pix
+35,2023-01-13,Alimentação,Restaurante,175.1,Cartão de débito
+36,2023-01-13,Transporte,Estacionamento,66.49,Boleto
+37,2023-01-13,Alimentação,Delivery,33.92,Dinheiro
+38,2023-01-14,Educação,Plataforma online,865.26,Cartão de débito
+39,2023-01-14,Saúde,Consulta médica,45.85,Cartão de crédito
+40,2023-01-15,Lazer,Bar,256.18,Cartão de débito
+41,2023-01-15,Serviços,Assinatura de app,383.29,Cartão de crédito
+42,2023-01-15,Transporte,Ônibus,145.75,Dinheiro
+43,2023-01-15,Lazer,Bar,199.17,Cartão de débito
+44,2023-01-15,Alimentação,Restaurante,109.03,Dinheiro
+45,2023-01-15,Transporte,Ônibus,68.66,Pix
+46,2023-01-16,Transporte,Manutenção do veículo,142.98,Pix
+47,2023-01-16,Moradia,Água,750.43,Cartão de débito
+48,2023-01-17,Alimentação,Delivery,25.74,Dinheiro
+49,2023-01-17,Educação,Livros,563.29,Pix
+50,2023-01-17,Transporte,Manutenção do veículo,168.58,Dinheiro
+51,2023-01-17,Alimentação,Supermercado,128.09,Cartão de crédito
+52,2023-01-17,Moradia,Gás,726.25,Dinheiro
+53,2023-01-17,Lazer,Cinema,72.41,Cartão de débito
+54,2023-01-18,Vestuário,Roupas,93.51,Cartão de débito
+55,2023-01-20,Vestuário,Acessórios,276.33,Boleto
+56,2023-01-20,Educação,Livros,371.31,Pix
+57,2023-01-20,Transporte,Estacionamento,159.6,Cartão de débito
+58,2023-01-21,Moradia,Gás,1076.69,Dinheiro
+59,2023-01-21,Moradia,Gás,824.31,Boleto
+60,2023-01-21,Lazer,Show,194.34,Dinheiro
+61,2023-01-21,Lazer,Jogos,222.57,Pix
+62,2023-01-22,Outros,Doação,231.55,Cartão de crédito
+63,2023-01-22,Alimentação,Feira,163.87,Pix
+64,2023-01-22,Transporte,Estacionamento,159.92,Boleto
+65,2023-01-23,Moradia,Gás,1810.88,Cartão de débito
+66,2023-01-23,Alimentação,Lanchonete,35.97,Cartão de débito
+67,2023-01-24,Vestuário,Acessórios,282.71,Cartão de débito
+68,2023-01-24,Alimentação,Lanchonete,63.1,Cartão de crédito
+69,2023-01-25,Moradia,Aluguel,783.24,Cartão de crédito
+70,2023-01-25,Transporte,Ônibus,133.25,Cartão de débito
+71,2023-01-26,Alimentação,Padaria,216.71,Cartão de crédito
+72,2023-01-26,Vestuário,Roupas,382.93,Cartão de débito
+73,2023-01-26,Alimentação,Delivery,62.93,Cartão de crédito
+74,2023-01-27,Alimentação,Padaria,128.62,Boleto
+75,2023-01-27,Educação,Material escolar,830.79,Cartão de débito
+76,2023-01-28,Serviços,Salão de beleza,304.11,Cartão de crédito
+77,2023-01-28,Outros,Doação,120.79,Dinheiro
+78,2023-01-28,Transporte,Manutenção do veículo,19.44,Cartão de crédito
+79,2023-01-29,Transporte,Pedágio,22.34,Pix
+80,2023-01-29,Saúde,Plano de saúde,130.76,Pix
+81,2023-01-29,Moradia,Internet,1793.09,Pix
+82,2023-01-30,Alimentação,Restaurante,194.41,Cartão de crédito
+83,2023-01-30,Lazer,Streaming,51.17,Cartão de débito
+84,2023-01-30,Alimentação,Lanchonete,188.4,Boleto
+85,2023-01-31,Transporte,Manutenção do veículo,80.13,Cartão de crédito
+86,2023-01-31,Outros,Doação,237.79,Cartão de débito
+87,2023-01-31,Saúde,Farmácia,419.27,Cartão de crédito
+88,2023-02-01,Transporte,Estacionamento,127.89,Pix
+89,2023-02-01,Serviços,Lavanderia,411.71,Cartão de crédito
+90,2023-02-02,Vestuário,Roupas,186.45,Cartão de débito
+91,2023-02-02,Transporte,Aplicativo de transporte,36.5,Dinheiro
+92,2023-02-02,Alimentação,Supermercado,114.5,Cartão de crédito
+93,2023-02-02,Outros,Presente,221.23,Dinheiro
+94,2023-02-03,Transporte,Aplicativo de transporte,99.08,Dinheiro
+95,2023-02-03,Alimentação,Lanchonete,150.18,Cartão de débito
+96,2023-02-04,Transporte,Combustível,60.78,Cartão de crédito
+97,2023-02-04,Transporte,Estacionamento,19.02,Dinheiro
+98,2023-02-05,Outros,Doação,152.98,Pix
+99,2023-02-05,Alimentação,Lanchonete,40.57,Pix
+100,2023-02-06,Saúde,Exames,779.01,Cartão de débito
+101,2023-02-06,Saúde,Farmácia,25.14,Boleto
+102,2023-02-07,Alimentação,Lanchonete,212.9,Cartão de crédito
+103,2023-02-07,Vestuário,Acessórios,170.22,Boleto
+104,2023-02-07,Transporte,Pedágio,64.1,Cartão de crédito
+105,2023-02-07,Saúde,Consulta médica,346.74,Boleto
+106,2023-02-08,Alimentação,Supermercado,185.5,Cartão de crédito
+107,2023-02-08,Lazer,Viagem,298.86,Boleto
+108,2023-02-08,Lazer,Viagem,293.57,Boleto
+109,2023-02-08,Saúde,Farmácia,606.53,Boleto
+110,2023-02-08,Educação,Material escolar,282.46,Dinheiro
+111,2023-02-08,Alimentação,Restaurante,38.51,Pix
+112,2023-02-09,Alimentação,Feira,83.27,Boleto
+113,2023-02-09,Outros,Doação,39.87,Cartão de débito
+114,2023-02-11,Lazer,Bar,68.43,Dinheiro
+115,2023-02-11,Alimentação,Supermercado,114.97,Pix
+116,2023-02-11,Alimentação,Lanchonete,150.39,Cartão de débito
+117,2023-02-12,Moradia,Gás,1796.81,Cartão de débito
+118,2023-02-12,Vestuário,Roupas,41.07,Boleto
+119,2023-02-12,Saúde,Farmácia,162.81,Cartão de débito
+120,2023-02-12,Alimentação,Padaria,110.25,Pix
+121,2023-02-12,Alimentação,Supermercado,122.08,Dinheiro
+122,2023-02-13,Moradia,Aluguel,1054.68,Pix
+123,2023-02-13,Transporte,Pedágio,162.72,Boleto
+124,2023-02-13,Vestuário,Acessórios,147.78,Pix
+125,2023-02-13,Moradia,Gás,2030.3,Cartão de débito
+126,2023-02-14,Lazer,Jogos,292.17,Boleto
+127,2023-02-14,Serviços,Lavanderia,450.7,Pix
+128,2023-02-14,Alimentação,Padaria,25.75,Cartão de débito
+129,2023-02-14,Alimentação,Supermercado,151.86,Cartão de crédito
+130,2023-02-14,Educação,Material escolar,905.32,Boleto
+131,2023-02-15,Lazer,Bar,15.52,Cartão de débito
+132,2023-02-15,Moradia,Gás,235.17,Dinheiro
+133,2023-02-16,Saúde,Exames,446.29,Cartão de crédito
+134,2023-02-16,Moradia,Energia elétrica,2059.76,Dinheiro
+135,2023-02-16,Outros,Doação,24.59,Dinheiro
+136,2023-02-16,Saúde,Consulta médica,265.77,Pix
+137,2023-02-17,Alimentação,Feira,175.7,Cartão de crédito
+138,2023-02-17,Moradia,Condomínio,891.92,Cartão de débito
+139,2023-02-17,Alimentação,Supermercado,149.27,Boleto
+140,2023-02-18,Serviços,Salão de beleza,179.32,Pix
+141,2023-02-18,Transporte,Estacionamento,78.51,Pix
+142,2023-02-19,Alimentação,Delivery,116.45,Dinheiro
+143,2023-02-19,Educação,Mensalidade curso,634.75,Cartão de crédito
+144,2023-02-19,Transporte,Combustível,170.11,Pix
+145,2023-02-20,Alimentação,Restaurante,218.72,Pix
+146,2023-02-21,Educação,Livros,523.25,Cartão de crédito
+147,2023-02-22,Outros,Diversos,154.1,Cartão de crédito
+148,2023-02-23,Moradia,Gás,727.68,Cartão de débito
+149,2023-02-23,Educação,Livros,168.79,Cartão de débito
+150,2023-02-23,Educação,Mensalidade curso,351.35,Dinheiro
+151,2023-02-24,Transporte,Ônibus,78.41,Cartão de crédito
+152,2023-02-24,Alimentação,Restaurante,26.19,Cartão de crédito
+153,2023-02-25,Serviços,Assinatura de app,92.37,Pix
+154,2023-02-25,Alimentação,Supermercado,66.64,Boleto
+155,2023-02-25,Transporte,Aplicativo de transporte,113.68,Pix
+156,2023-02-25,Alimentação,Feira,85.77,Boleto
+157,2023-02-25,Vestuário,Roupas,282.19,Pix
+158,2023-02-25,Alimentação,Lanchonete,199.84,Pix
+159,2023-02-26,Alimentação,Restaurante,76.79,Cartão de débito
+160,2023-02-26,Educação,Livros,217.59,Pix
+161,2023-02-26,Serviços,Manutenção doméstica,60.29,Cartão de crédito
+162,2023-02-27,Transporte,Estacionamento,17.98,Dinheiro
+163,2023-02-27,Transporte,Manutenção do veículo,73.67,Dinheiro
+164,2023-02-27,Moradia,Água,1128.75,Boleto
+165,2023-02-27,Educação,Material escolar,265.33,Boleto
+166,2023-03-01,Alimentação,Delivery,164.59,Boleto
+167,2023-03-03,Educação,Plataforma online,646.75,Dinheiro
+168,2023-03-03,Outros,Diversos,44.17,Cartão de crédito
+169,2023-03-03,Transporte,Estacionamento,24.44,Dinheiro
+170,2023-03-04,Moradia,Aluguel,799.32,Cartão de débito
+171,2023-03-04,Saúde,Plano de saúde,373.15,Boleto
+172,2023-03-04,Moradia,Gás,158.64,Cartão de débito
+173,2023-03-04,Transporte,Pedágio,172.16,Boleto
+174,2023-03-05,Alimentação,Padaria,101.13,Cartão de crédito
+175,2023-03-05,Lazer,Bar,173.2,Pix
+176,2023-03-05,Vestuário,Roupas,382.13,Boleto
+177,2023-03-05,Alimentação,Supermercado,157.78,Cartão de crédito
+178,2023-03-05,Outros,Imprevisto,96.76,Dinheiro
+179,2023-03-06,Alimentação,Padaria,200.56,Boleto
+180,2023-03-06,Educação,Plataforma online,530.45,Cartão de débito
+181,2023-03-07,Transporte,Aplicativo de transporte,107.95,Boleto
+182,2023-03-07,Moradia,Água,781.47,Dinheiro
+183,2023-03-07,Transporte,Ônibus,53.38,Pix
+184,2023-03-07,Transporte,Estacionamento,118.45,Cartão de crédito
+185,2023-03-07,Vestuário,Roupas,265.89,Boleto
+186,2023-03-08,Moradia,Gás,237.05,Cartão de crédito
+187,2023-03-08,Alimentação,Restaurante,147.43,Cartão de crédito
+188,2023-03-08,Transporte,Pedágio,28.55,Pix
+189,2023-03-08,Transporte,Aplicativo de transporte,39.84,Boleto
+190,2023-03-09,Alimentação,Feira,210.71,Boleto
+191,2023-03-10,Alimentação,Feira,32.5,Cartão de crédito
+192,2023-03-11,Serviços,Salão de beleza,432.62,Boleto
+193,2023-03-11,Moradia,Energia elétrica,1418.54,Boleto
+194,2023-03-11,Saúde,Farmácia,807.6,Cartão de débito
+195,2023-03-11,Transporte,Combustível,68.58,Cartão de crédito
+196,2023-03-12,Saúde,Exames,306.52,Dinheiro
+197,2023-03-12,Vestuário,Acessórios,246.14,Cartão de débito
+198,2023-03-12,Saúde,Consulta médica,31.99,Dinheiro
+199,2023-03-13,Outros,Imprevisto,76.99,Boleto
+200,2023-03-13,Alimentação,Supermercado,144.8,Cartão de crédito
+201,2023-03-13,Serviços,Lavanderia,172.54,Pix
+202,2023-03-13,Moradia,Aluguel,861.54,Cartão de débito
+203,2023-03-13,Lazer,Viagem,142.44,Pix
+204,2023-03-17,Serviços,Assinatura de app,174.61,Cartão de crédito
+205,2023-03-20,Saúde,Consulta médica,256.67,Cartão de débito
+206,2023-03-20,Educação,Mensalidade curso,147.7,Cartão de crédito
+207,2023-03-21,Saúde,Farmácia,123.51,Cartão de débito
+208,2023-03-21,Transporte,Aplicativo de transporte,176.92,Cartão de crédito
+209,2023-03-22,Moradia,Gás,687.43,Cartão de débito
+210,2023-03-22,Vestuário,Calçados,389.53,Pix
+211,2023-03-22,Outros,Imprevisto,191.38,Boleto
+212,2023-03-23,Moradia,Energia elétrica,1434.5,Boleto
+213,2023-03-23,Educação,Material escolar,45.98,Boleto
+214,2023-03-23,Alimentação,Lanchonete,91.78,Cartão de débito
+215,2023-03-24,Lazer,Bar,216.85,Cartão de débito
+216,2023-03-25,Moradia,Aluguel,1667.93,Pix
+217,2023-03-25,Transporte,Estacionamento,169.34,Cartão de crédito
+218,2023-03-26,Lazer,Bar,39.07,Cartão de débito
+219,2023-03-26,Moradia,Internet,1660.07,Dinheiro
+220,2023-03-27,Moradia,Energia elétrica,1573.28,Boleto
+221,2023-03-28,Serviços,Salão de beleza,94.68,Cartão de crédito
+222,2023-03-28,Lazer,Streaming,185.66,Boleto
+223,2023-03-28,Educação,Livros,325.0,Pix
+224,2023-03-28,Outros,Doação,152.93,Dinheiro
+225,2023-03-28,Serviços,Manutenção doméstica,51.44,Cartão de crédito
+226,2023-03-28,Transporte,Aplicativo de transporte,75.29,Dinheiro
+227,2023-03-28,Vestuário,Calçados,266.67,Boleto
+228,2023-03-28,Saúde,Exames,766.27,Cartão de crédito
+229,2023-03-29,Saúde,Dentista,341.87,Boleto
+230,2023-03-30,Transporte,Estacionamento,83.89,Boleto
+231,2023-03-30,Saúde,Consulta médica,31.57,Pix
+232,2023-03-30,Transporte,Estacionamento,167.17,Dinheiro
+233,2023-03-31,Vestuário,Calçados,407.35,Pix
+234,2023-03-31,Moradia,Condomínio,2187.19,Cartão de débito
+235,2023-03-31,Moradia,Gás,1539.95,Pix
+236,2023-03-31,Transporte,Combustível,160.61,Boleto
+237,2023-03-31,Alimentação,Delivery,197.0,Dinheiro
+238,2023-04-01,Alimentação,Supermercado,60.46,Boleto
+239,2023-04-02,Alimentação,Lanchonete,99.78,Pix
+240,2023-04-02,Saúde,Dentista,529.48,Dinheiro
+241,2023-04-02,Transporte,Aplicativo de transporte,97.82,Pix
+242,2023-04-02,Alimentação,Feira,57.69,Dinheiro
+243,2023-04-03,Moradia,Gás,288.7,Cartão de crédito
+244,2023-04-03,Lazer,Jogos,37.89,Cartão de crédito
+245,2023-04-03,Transporte,Pedágio,126.05,Cartão de débito
+246,2023-04-03,Transporte,Ônibus,26.4,Pix
+247,2023-04-03,Vestuário,Roupas,159.79,Boleto
+248,2023-04-03,Transporte,Estacionamento,27.32,Pix
+249,2023-04-04,Lazer,Streaming,277.64,Cartão de débito
+250,2023-04-04,Moradia,Energia elétrica,945.7,Cartão de crédito
+251,2023-04-04,Vestuário,Acessórios,213.95,Dinheiro
+252,2023-04-04,Alimentação,Restaurante,127.51,Cartão de débito
+253,2023-04-05,Alimentação,Feira,197.14,Cartão de débito
+254,2023-04-05,Saúde,Consulta médica,831.79,Cartão de débito
+255,2023-04-06,Serviços,Assinatura de app,427.37,Dinheiro
+256,2023-04-06,Educação,Material escolar,425.3,Cartão de crédito
+257,2023-04-06,Moradia,Água,879.6,Cartão de crédito
+258,2023-04-06,Alimentação,Restaurante,153.35,Cartão de crédito
+259,2023-04-06,Alimentação,Delivery,26.77,Pix
+260,2023-04-06,Alimentação,Restaurante,188.15,Dinheiro
+261,2023-04-07,Moradia,Energia elétrica,439.8,Cartão de débito
+262,2023-04-08,Serviços,Salão de beleza,447.34,Cartão de débito
+263,2023-04-08,Saúde,Dentista,272.82,Dinheiro
+264,2023-04-09,Saúde,Dentista,223.8,Boleto
+265,2023-04-09,Transporte,Combustível,87.93,Cartão de crédito
+266,2023-04-10,Alimentação,Lanchonete,50.02,Cartão de crédito
+267,2023-04-10,Moradia,Gás,1531.09,Dinheiro
+268,2023-04-10,Vestuário,Calçados,98.71,Cartão de crédito
+269,2023-04-10,Moradia,Água,2182.92,Pix
+270,2023-04-11,Alimentação,Lanchonete,134.02,Pix
+271,2023-04-11,Moradia,Condomínio,619.58,Cartão de crédito
+272,2023-04-11,Alimentação,Feira,102.27,Cartão de crédito
+273,2023-04-12,Outros,Diversos,98.16,Cartão de crédito
+274,2023-04-12,Lazer,Viagem,268.25,Cartão de crédito
+275,2023-04-12,Transporte,Ônibus,77.24,Pix
+276,2023-04-12,Serviços,Lavanderia,101.96,Cartão de débito
+277,2023-04-12,Lazer,Cinema,53.53,Boleto
+278,2023-04-13,Moradia,Aluguel,1600.8,Cartão de débito
+279,2023-04-13,Transporte,Manutenção do veículo,47.2,Cartão de crédito
+280,2023-04-13,Lazer,Bar,260.25,Dinheiro
+281,2023-04-13,Alimentação,Feira,193.46,Cartão de débito
+282,2023-04-14,Saúde,Dentista,470.31,Cartão de crédito
+283,2023-04-14,Alimentação,Feira,153.88,Cartão de crédito
+284,2023-04-14,Moradia,Aluguel,126.55,Dinheiro
+285,2023-04-15,Alimentação,Lanchonete,34.83,Boleto
+286,2023-04-15,Vestuário,Calçados,239.39,Pix
+287,2023-04-15,Alimentação,Lanchonete,90.35,Cartão de débito
+288,2023-04-15,Alimentação,Lanchonete,219.88,Boleto
+289,2023-04-15,Educação,Material escolar,548.92,Dinheiro
+290,2023-04-16,Vestuário,Acessórios,356.58,Cartão de crédito
+291,2023-04-16,Alimentação,Delivery,29.43,Pix
+292,2023-04-16,Saúde,Exames,109.62,Cartão de débito
+293,2023-04-17,Alimentação,Feira,216.54,Dinheiro
+294,2023-04-17,Alimentação,Delivery,184.89,Dinheiro
+295,2023-04-17,Transporte,Pedágio,32.17,Dinheiro
+296,2023-04-17,Alimentação,Feira,18.37,Cartão de crédito
+297,2023-04-18,Transporte,Ônibus,106.91,Dinheiro
+298,2023-04-18,Vestuário,Acessórios,78.17,Pix
+299,2023-04-19,Moradia,Água,847.84,Cartão de débito
+300,2023-04-19,Saúde,Plano de saúde,108.32,Boleto
+301,2023-04-19,Moradia,Condomínio,1597.42,Pix
+302,2023-04-19,Lazer,Jogos,224.88,Pix
+303,2023-04-20,Lazer,Jogos,81.75,Boleto
+304,2023-04-20,Transporte,Manutenção do veículo,105.09,Pix
+305,2023-04-20,Saúde,Plano de saúde,440.11,Cartão de crédito
+306,2023-04-21,Transporte,Combustível,102.35,Pix
+307,2023-04-22,Alimentação,Feira,48.7,Pix
+308,2023-04-22,Alimentação,Padaria,122.16,Dinheiro
+309,2023-04-22,Moradia,Aluguel,1833.26,Cartão de débito
+310,2023-04-22,Educação,Material escolar,746.79,Cartão de débito
+311,2023-04-22,Alimentação,Lanchonete,89.35,Cartão de crédito
+312,2023-04-23,Saúde,Dentista,429.71,Boleto
+313,2023-04-24,Vestuário,Roupas,365.66,Pix
+314,2023-04-25,Alimentação,Padaria,17.8,Cartão de débito
+315,2023-04-26,Saúde,Dentista,246.01,Pix
+316,2023-04-26,Alimentação,Delivery,135.02,Boleto
+317,2023-04-26,Saúde,Plano de saúde,816.66,Cartão de débito
+318,2023-04-27,Moradia,Condomínio,329.03,Dinheiro
+319,2023-04-27,Alimentação,Padaria,53.14,Dinheiro
+320,2023-04-27,Transporte,Manutenção do veículo,152.97,Cartão de débito
+321,2023-04-27,Moradia,Energia elétrica,2120.1,Dinheiro
+322,2023-04-27,Moradia,Energia elétrica,1225.3,Cartão de crédito
+323,2023-04-28,Lazer,Show,64.95,Cartão de crédito
+324,2023-04-28,Alimentação,Padaria,142.7,Cartão de crédito
+325,2023-04-28,Alimentação,Delivery,105.28,Boleto
+326,2023-04-28,Serviços,Assinatura de app,497.24,Dinheiro
+327,2023-04-28,Alimentação,Supermercado,111.26,Pix
+328,2023-04-29,Serviços,Assinatura de app,376.36,Pix
+329,2023-04-29,Outros,Presente,107.0,Boleto
+330,2023-04-29,Alimentação,Delivery,206.13,Boleto
+331,2023-04-29,Alimentação,Feira,110.12,Pix
+332,2023-04-30,Lazer,Viagem,233.66,Cartão de crédito
+333,2023-04-30,Alimentação,Padaria,157.15,Dinheiro
+334,2023-04-30,Transporte,Aplicativo de transporte,71.97,Cartão de débito
+335,2023-04-30,Vestuário,Calçados,390.13,Pix
+336,2023-04-30,Transporte,Estacionamento,176.24,Pix
+337,2023-04-30,Alimentação,Feira,149.44,Dinheiro
+338,2023-05-01,Lazer,Streaming,245.07,Boleto
+339,2023-05-01,Saúde,Consulta médica,334.4,Pix
+340,2023-05-01,Transporte,Ônibus,89.55,Cartão de débito
+341,2023-05-02,Transporte,Ônibus,40.55,Pix
+342,2023-05-02,Educação,Mensalidade curso,411.84,Pix
+343,2023-05-02,Alimentação,Restaurante,204.45,Cartão de débito
+344,2023-05-02,Moradia,Gás,1246.26,Cartão de débito
+345,2023-05-03,Alimentação,Supermercado,43.13,Cartão de débito
+346,2023-05-03,Serviços,Manutenção doméstica,203.2,Dinheiro
+347,2023-05-04,Lazer,Jogos,111.24,Boleto
+348,2023-05-04,Transporte,Ônibus,23.53,Cartão de débito
+349,2023-05-04,Alimentação,Delivery,213.51,Cartão de débito
+350,2023-05-05,Alimentação,Restaurante,144.15,Cartão de débito
+351,2023-05-05,Alimentação,Padaria,101.06,Dinheiro
+352,2023-05-05,Saúde,Exames,473.13,Pix
+353,2023-05-05,Outros,Imprevisto,181.52,Dinheiro
+354,2023-05-05,Serviços,Lavanderia,214.19,Cartão de débito
+355,2023-05-06,Alimentação,Restaurante,30.18,Dinheiro
+356,2023-05-06,Transporte,Combustível,48.39,Cartão de crédito
+357,2023-05-06,Saúde,Farmácia,80.74,Dinheiro
+358,2023-05-07,Lazer,Jogos,152.4,Boleto
+359,2023-05-07,Alimentação,Delivery,159.78,Pix
+360,2023-05-07,Moradia,Água,1181.82,Pix
+361,2023-05-07,Transporte,Ônibus,40.65,Cartão de débito
+362,2023-05-08,Transporte,Ônibus,138.55,Dinheiro
+363,2023-05-08,Serviços,Lavanderia,95.83,Cartão de crédito
+364,2023-05-08,Educação,Plataforma online,852.34,Cartão de débito
+365,2023-05-08,Alimentação,Supermercado,27.44,Dinheiro
+366,2023-05-08,Transporte,Aplicativo de transporte,134.13,Boleto
+367,2023-05-10,Moradia,Condomínio,322.51,Dinheiro
+368,2023-05-10,Transporte,Manutenção do veículo,115.79,Pix
+369,2023-05-10,Alimentação,Lanchonete,174.6,Pix
+370,2023-05-10,Moradia,Condomínio,863.7,Boleto
+371,2023-05-10,Educação,Plataforma online,273.22,Dinheiro
+372,2023-05-11,Alimentação,Feira,151.31,Cartão de débito
+373,2023-05-11,Lazer,Cinema,82.92,Cartão de crédito
+374,2023-05-11,Alimentação,Delivery,15.37,Boleto
+375,2023-05-11,Serviços,Salão de beleza,49.96,Cartão de crédito
+376,2023-05-11,Transporte,Pedágio,81.27,Pix
+377,2023-05-12,Educação,Livros,901.63,Pix
+378,2023-05-12,Educação,Material escolar,253.42,Boleto
+379,2023-05-12,Lazer,Bar,53.87,Cartão de débito
+380,2023-05-13,Alimentação,Delivery,24.98,Pix
+381,2023-05-13,Outros,Presente,133.16,Cartão de débito
+382,2023-05-13,Saúde,Farmácia,419.56,Dinheiro
+383,2023-05-14,Educação,Plataforma online,278.38,Boleto
+384,2023-05-14,Saúde,Plano de saúde,425.4,Cartão de crédito
+385,2023-05-14,Alimentação,Supermercado,200.17,Cartão de crédito
+386,2023-05-15,Saúde,Farmácia,165.75,Pix
+387,2023-05-15,Alimentação,Delivery,179.48,Dinheiro
+388,2023-05-15,Transporte,Ônibus,21.82,Boleto
+389,2023-05-15,Transporte,Combustível,143.47,Pix
+390,2023-05-16,Moradia,Água,1858.62,Pix
+391,2023-05-16,Lazer,Streaming,32.89,Cartão de crédito
+392,2023-05-16,Moradia,Gás,970.68,Cartão de crédito
+393,2023-05-16,Outros,Doação,144.29,Pix
+394,2023-05-17,Vestuário,Acessórios,290.36,Boleto
+395,2023-05-17,Alimentação,Delivery,126.93,Cartão de débito
+396,2023-05-17,Educação,Mensalidade curso,398.86,Dinheiro
+397,2023-05-17,Alimentação,Delivery,138.52,Boleto
+398,2023-05-17,Transporte,Pedágio,143.36,Cartão de débito
+399,2023-05-17,Moradia,Energia elétrica,1376.34,Cartão de crédito
+400,2023-05-18,Moradia,Água,1162.07,Pix
+401,2023-05-18,Transporte,Pedágio,11.91,Dinheiro
+402,2023-05-18,Alimentação,Restaurante,147.92,Dinheiro
+403,2023-05-19,Alimentação,Feira,174.12,Cartão de crédito
+404,2023-05-19,Moradia,Água,499.99,Boleto
+405,2023-05-19,Moradia,Aluguel,765.74,Cartão de débito
+406,2023-05-20,Transporte,Pedágio,110.56,Cartão de débito
+407,2023-05-20,Alimentação,Padaria,93.71,Boleto
+408,2023-05-20,Transporte,Combustível,87.11,Dinheiro
+409,2023-05-21,Alimentação,Restaurante,166.88,Cartão de débito
+410,2023-05-22,Alimentação,Restaurante,93.52,Cartão de débito
+411,2023-05-22,Serviços,Manutenção doméstica,214.57,Dinheiro
+412,2023-05-22,Vestuário,Calçados,191.23,Dinheiro
+413,2023-05-23,Lazer,Bar,221.39,Cartão de crédito
+414,2023-05-23,Educação,Livros,260.24,Dinheiro
+415,2023-05-23,Educação,Mensalidade curso,146.36,Dinheiro
+416,2023-05-23,Vestuário,Roupas,263.19,Cartão de débito
+417,2023-05-24,Moradia,Aluguel,2063.95,Pix
+418,2023-05-24,Lazer,Viagem,194.82,Pix
+419,2023-05-24,Vestuário,Calçados,319.58,Cartão de crédito
+420,2023-05-24,Serviços,Salão de beleza,114.29,Cartão de crédito
+421,2023-05-24,Alimentação,Padaria,20.2,Cartão de débito
+422,2023-05-24,Transporte,Manutenção do veículo,104.92,Cartão de crédito
+423,2023-05-24,Lazer,Viagem,319.64,Cartão de débito
+424,2023-05-26,Alimentação,Lanchonete,49.01,Boleto
+425,2023-05-26,Saúde,Exames,180.29,Boleto
+426,2023-05-26,Moradia,Aluguel,1449.74,Boleto
+427,2023-05-27,Vestuário,Calçados,294.45,Cartão de crédito
+428,2023-05-27,Outros,Imprevisto,135.1,Pix
+429,2023-05-27,Lazer,Bar,44.97,Cartão de débito
+430,2023-05-27,Moradia,Aluguel,1553.48,Cartão de débito
+431,2023-05-27,Alimentação,Supermercado,135.87,Pix
+432,2023-05-27,Transporte,Combustível,133.7,Pix
+433,2023-05-27,Outros,Presente,153.91,Cartão de crédito
+434,2023-05-29,Educação,Livros,554.01,Pix
+435,2023-05-29,Transporte,Pedágio,177.61,Pix
+436,2023-05-30,Transporte,Pedágio,77.11,Cartão de débito
+437,2023-05-30,Alimentação,Feira,73.81,Cartão de débito
+438,2023-05-30,Transporte,Pedágio,55.34,Cartão de crédito
+439,2023-05-30,Lazer,Jogos,267.69,Dinheiro
+440,2023-05-30,Moradia,Condomínio,2039.33,Cartão de débito
+441,2023-05-30,Lazer,Bar,233.88,Cartão de crédito
+442,2023-05-30,Lazer,Jogos,273.98,Cartão de crédito
+443,2023-05-30,Moradia,Aluguel,1386.91,Cartão de crédito
+444,2023-05-31,Alimentação,Restaurante,170.22,Cartão de débito
+445,2023-05-31,Transporte,Pedágio,55.2,Dinheiro
+446,2023-06-01,Alimentação,Restaurante,86.55,Cartão de crédito
+447,2023-06-01,Transporte,Aplicativo de transporte,84.79,Boleto
+448,2023-06-01,Lazer,Viagem,145.43,Pix
+449,2023-06-02,Moradia,Energia elétrica,1106.8,Boleto
+450,2023-06-02,Vestuário,Acessórios,247.75,Cartão de crédito
+451,2023-06-02,Transporte,Estacionamento,10.46,Boleto
+452,2023-06-02,Lazer,Viagem,310.42,Dinheiro
+453,2023-06-02,Outros,Diversos,174.24,Cartão de débito
+454,2023-06-02,Lazer,Streaming,59.71,Dinheiro
+455,2023-06-03,Transporte,Aplicativo de transporte,106.98,Pix
+456,2023-06-03,Saúde,Farmácia,223.25,Boleto
+457,2023-06-03,Educação,Mensalidade curso,201.45,Boleto
+458,2023-06-04,Transporte,Combustível,9.3,Pix
+459,2023-06-04,Serviços,Salão de beleza,439.37,Cartão de crédito
+460,2023-06-05,Alimentação,Lanchonete,130.38,Cartão de crédito
+461,2023-06-05,Transporte,Aplicativo de transporte,117.36,Boleto
+462,2023-06-06,Transporte,Pedágio,33.34,Cartão de débito
+463,2023-06-06,Vestuário,Acessórios,112.14,Cartão de débito
+464,2023-06-07,Transporte,Aplicativo de transporte,142.18,Dinheiro
+465,2023-06-07,Transporte,Pedágio,172.3,Dinheiro
+466,2023-06-07,Alimentação,Delivery,109.35,Dinheiro
+467,2023-06-07,Outros,Imprevisto,248.62,Dinheiro
+468,2023-06-07,Moradia,Gás,457.23,Cartão de crédito
+469,2023-06-07,Transporte,Estacionamento,142.86,Cartão de crédito
+470,2023-06-07,Alimentação,Padaria,54.3,Pix
+471,2023-06-07,Vestuário,Acessórios,357.9,Boleto
+472,2023-06-08,Alimentação,Supermercado,59.63,Boleto
+473,2023-06-08,Moradia,Internet,1817.17,Pix
+474,2023-06-08,Serviços,Manutenção doméstica,22.01,Dinheiro
+475,2023-06-09,Lazer,Cinema,51.56,Dinheiro
+476,2023-06-09,Vestuário,Roupas,339.49,Dinheiro
+477,2023-06-09,Transporte,Pedágio,7.39,Cartão de débito
+478,2023-06-09,Alimentação,Padaria,146.7,Cartão de débito
+479,2023-06-10,Vestuário,Acessórios,278.82,Cartão de débito
+480,2023-06-11,Transporte,Combustível,130.53,Cartão de débito
+481,2023-06-11,Vestuário,Roupas,219.17,Cartão de crédito
+482,2023-06-11,Transporte,Pedágio,129.87,Cartão de débito
+483,2023-06-12,Serviços,Salão de beleza,440.77,Pix
+484,2023-06-12,Moradia,Aluguel,1698.77,Cartão de débito
+485,2023-06-12,Educação,Livros,894.63,Boleto
+486,2023-06-12,Outros,Presente,58.9,Cartão de crédito
+487,2023-06-13,Vestuário,Acessórios,394.16,Pix
+488,2023-06-13,Moradia,Gás,1145.34,Pix
+489,2023-06-13,Moradia,Aluguel,1218.52,Pix
+490,2023-06-13,Transporte,Aplicativo de transporte,71.61,Pix
+491,2023-06-13,Transporte,Ônibus,10.1,Boleto
+492,2023-06-14,Transporte,Ônibus,126.39,Dinheiro
+493,2023-06-14,Lazer,Streaming,102.0,Cartão de débito
+494,2023-06-14,Lazer,Show,169.43,Dinheiro
+495,2023-06-15,Vestuário,Roupas,138.14,Dinheiro
+496,2023-06-15,Transporte,Ônibus,12.2,Boleto
+497,2023-06-15,Alimentação,Supermercado,168.15,Pix
+498,2023-06-15,Alimentação,Delivery,109.94,Cartão de crédito
+499,2023-06-16,Lazer,Jogos,212.73,Cartão de débito
+500,2023-06-16,Alimentação,Delivery,41.06,Dinheiro
+501,2023-06-17,Vestuário,Acessórios,130.88,Cartão de crédito
+502,2023-06-18,Alimentação,Feira,208.1,Dinheiro
+503,2023-06-19,Vestuário,Acessórios,388.62,Boleto
+504,2023-06-19,Lazer,Show,28.33,Cartão de débito
+505,2023-06-19,Educação,Livros,754.21,Cartão de crédito
+506,2023-06-19,Alimentação,Restaurante,115.79,Pix
+507,2023-06-19,Saúde,Dentista,346.39,Cartão de crédito
+508,2023-06-20,Educação,Plataforma online,80.31,Pix
+509,2023-06-20,Moradia,Energia elétrica,377.43,Dinheiro
+510,2023-06-20,Transporte,Estacionamento,36.51,Boleto
+511,2023-06-20,Vestuário,Acessórios,244.49,Pix
+512,2023-06-20,Moradia,Aluguel,1379.84,Boleto
+513,2023-06-20,Saúde,Consulta médica,599.78,Pix
+514,2023-06-21,Alimentação,Lanchonete,24.37,Dinheiro
+515,2023-06-21,Educação,Plataforma online,885.0,Boleto
+516,2023-06-21,Alimentação,Delivery,204.19,Pix
+517,2023-06-21,Saúde,Plano de saúde,744.77,Pix
+518,2023-06-21,Alimentação,Lanchonete,120.06,Pix
+519,2023-06-21,Moradia,Internet,976.12,Dinheiro
+520,2023-06-22,Lazer,Viagem,183.79,Cartão de débito
+521,2023-06-22,Lazer,Bar,265.88,Boleto
+522,2023-06-22,Alimentação,Delivery,171.54,Pix
+523,2023-06-23,Educação,Material escolar,298.25,Cartão de crédito
+524,2023-06-23,Outros,Imprevisto,157.89,Boleto
+525,2023-06-23,Saúde,Exames,792.52,Cartão de débito
+526,2023-06-23,Outros,Diversos,63.89,Pix
+527,2023-06-24,Alimentação,Feira,139.95,Boleto
+528,2023-06-24,Alimentação,Delivery,56.14,Boleto
+529,2023-06-27,Saúde,Exames,154.14,Dinheiro
+530,2023-06-27,Alimentação,Delivery,136.47,Pix
+531,2023-06-27,Moradia,Gás,1985.93,Boleto
+532,2023-06-27,Transporte,Aplicativo de transporte,26.13,Dinheiro
+533,2023-06-27,Alimentação,Supermercado,139.18,Dinheiro
+534,2023-06-28,Alimentação,Feira,97.9,Boleto
+535,2023-06-28,Alimentação,Restaurante,68.71,Pix
+536,2023-06-29,Alimentação,Restaurante,124.18,Boleto
+537,2023-06-29,Educação,Plataforma online,621.24,Dinheiro
+538,2023-06-29,Educação,Livros,439.46,Boleto
+539,2023-06-30,Alimentação,Supermercado,204.15,Pix
+540,2023-06-30,Educação,Plataforma online,78.43,Cartão de crédito
+541,2023-06-30,Transporte,Pedágio,7.74,Boleto
+542,2023-07-01,Serviços,Manutenção doméstica,31.9,Dinheiro
+543,2023-07-01,Outros,Imprevisto,160.71,Boleto
+544,2023-07-01,Outros,Diversos,123.9,Pix
+545,2023-07-01,Lazer,Streaming,67.96,Cartão de crédito
+546,2023-07-01,Vestuário,Roupas,346.63,Cartão de crédito
+547,2023-07-03,Lazer,Show,30.65,Pix
+548,2023-07-03,Transporte,Combustível,172.41,Cartão de débito
+549,2023-07-03,Alimentação,Delivery,153.2,Cartão de crédito
+550,2023-07-03,Moradia,Condomínio,1519.91,Pix
+551,2023-07-03,Serviços,Lavanderia,371.96,Dinheiro
+552,2023-07-03,Lazer,Viagem,155.53,Pix
+553,2023-07-04,Transporte,Ônibus,138.42,Pix
+554,2023-07-04,Serviços,Manutenção doméstica,131.71,Cartão de débito
+555,2023-07-04,Lazer,Cinema,201.68,Pix
+556,2023-07-04,Moradia,Energia elétrica,389.4,Pix
+557,2023-07-04,Moradia,Água,242.89,Cartão de crédito
+558,2023-07-04,Moradia,Energia elétrica,1902.45,Dinheiro
+559,2023-07-05,Transporte,Pedágio,87.39,Pix
+560,2023-07-05,Educação,Mensalidade curso,556.24,Boleto
+561,2023-07-05,Alimentação,Feira,187.52,Cartão de crédito
+562,2023-07-05,Moradia,Gás,2199.9,Dinheiro
+563,2023-07-05,Educação,Material escolar,176.7,Boleto
+564,2023-07-06,Moradia,Energia elétrica,832.23,Pix
+565,2023-07-06,Moradia,Internet,879.92,Cartão de débito
+566,2023-07-07,Outros,Doação,173.95,Dinheiro
+567,2023-07-07,Outros,Diversos,229.84,Dinheiro
+568,2023-07-07,Moradia,Água,830.48,Boleto
+569,2023-07-08,Outros,Imprevisto,70.59,Cartão de crédito
+570,2023-07-08,Transporte,Aplicativo de transporte,151.08,Cartão de crédito
+571,2023-07-08,Serviços,Assinatura de app,255.89,Cartão de débito
+572,2023-07-09,Serviços,Manutenção doméstica,353.91,Pix
+573,2023-07-09,Moradia,Água,1565.57,Boleto
+574,2023-07-09,Transporte,Ônibus,90.98,Pix
+575,2023-07-10,Educação,Mensalidade curso,641.21,Boleto
+576,2023-07-10,Educação,Mensalidade curso,433.24,Boleto
+577,2023-07-11,Educação,Material escolar,117.91,Cartão de crédito
+578,2023-07-11,Moradia,Internet,1134.75,Pix
+579,2023-07-11,Saúde,Exames,220.64,Boleto
+580,2023-07-11,Saúde,Exames,292.04,Pix
+581,2023-07-11,Saúde,Exames,200.69,Pix
+582,2023-07-11,Alimentação,Padaria,31.04,Pix
+583,2023-07-11,Transporte,Ônibus,162.13,Cartão de débito
+584,2023-07-12,Serviços,Manutenção doméstica,107.56,Cartão de crédito
+585,2023-07-12,Alimentação,Padaria,52.87,Boleto
+586,2023-07-12,Serviços,Salão de beleza,239.78,Dinheiro
+587,2023-07-12,Alimentação,Restaurante,29.77,Dinheiro
+588,2023-07-13,Lazer,Cinema,168.3,Cartão de crédito
+589,2023-07-13,Serviços,Assinatura de app,161.21,Pix
+590,2023-07-13,Serviços,Lavanderia,99.6,Pix
+591,2023-07-13,Saúde,Consulta médica,803.27,Pix
+592,2023-07-14,Alimentação,Lanchonete,150.09,Dinheiro
+593,2023-07-14,Lazer,Bar,166.97,Dinheiro
+594,2023-07-15,Alimentação,Restaurante,79.31,Dinheiro
+595,2023-07-15,Transporte,Combustível,108.93,Pix
+596,2023-07-15,Alimentação,Restaurante,172.79,Dinheiro
+597,2023-07-16,Alimentação,Feira,106.97,Cartão de débito
+598,2023-07-16,Transporte,Combustível,29.07,Pix
+599,2023-07-16,Alimentação,Lanchonete,178.39,Dinheiro
+600,2023-07-16,Alimentação,Lanchonete,140.76,Cartão de débito
+601,2023-07-16,Educação,Mensalidade curso,97.49,Cartão de débito
+602,2023-07-16,Transporte,Estacionamento,162.9,Dinheiro
+603,2023-07-17,Transporte,Combustível,76.5,Pix
+604,2023-07-17,Lazer,Cinema,297.28,Boleto
+605,2023-07-18,Transporte,Ônibus,68.15,Cartão de crédito
+606,2023-07-18,Transporte,Pedágio,64.14,Dinheiro
+607,2023-07-18,Lazer,Cinema,70.89,Boleto
+608,2023-07-19,Saúde,Consulta médica,584.12,Pix
+609,2023-07-20,Saúde,Dentista,847.59,Cartão de débito
+610,2023-07-20,Alimentação,Feira,125.37,Cartão de crédito
+611,2023-07-20,Outros,Presente,163.22,Pix
+612,2023-07-21,Moradia,Água,636.19,Boleto
+613,2023-07-21,Alimentação,Delivery,78.72,Cartão de crédito
+614,2023-07-22,Alimentação,Delivery,46.34,Cartão de crédito
+615,2023-07-22,Moradia,Aluguel,990.65,Cartão de débito
+616,2023-07-22,Vestuário,Acessórios,175.17,Cartão de crédito
+617,2023-07-22,Transporte,Aplicativo de transporte,35.88,Pix
+618,2023-07-22,Moradia,Aluguel,1145.54,Dinheiro
+619,2023-07-23,Educação,Mensalidade curso,405.26,Cartão de crédito
+620,2023-07-23,Educação,Livros,747.94,Pix
+621,2023-07-23,Saúde,Dentista,561.14,Cartão de débito
+622,2023-07-23,Lazer,Streaming,289.0,Cartão de crédito
+623,2023-07-23,Moradia,Aluguel,1739.36,Boleto
+624,2023-07-24,Vestuário,Calçados,209.52,Cartão de débito
+625,2023-07-24,Vestuário,Calçados,83.98,Cartão de crédito
+626,2023-07-24,Transporte,Ônibus,47.36,Cartão de débito
+627,2023-07-24,Alimentação,Padaria,93.26,Dinheiro
+628,2023-07-24,Moradia,Internet,612.68,Dinheiro
+629,2023-07-24,Educação,Mensalidade curso,325.49,Cartão de crédito
+630,2023-07-24,Moradia,Água,1957.08,Pix
+631,2023-07-24,Alimentação,Supermercado,101.44,Pix
+632,2023-07-25,Transporte,Ônibus,123.14,Pix
+633,2023-07-26,Vestuário,Acessórios,135.74,Pix
+634,2023-07-26,Transporte,Manutenção do veículo,92.13,Pix
+635,2023-07-26,Transporte,Estacionamento,150.15,Cartão de crédito
+636,2023-07-26,Educação,Material escolar,69.45,Cartão de crédito
+637,2023-07-27,Educação,Plataforma online,750.64,Cartão de débito
+638,2023-07-27,Alimentação,Feira,170.73,Cartão de débito
+639,2023-07-28,Outros,Diversos,47.29,Dinheiro
+640,2023-07-28,Lazer,Viagem,24.85,Cartão de crédito
+641,2023-07-28,Saúde,Dentista,644.04,Dinheiro
+642,2023-07-28,Vestuário,Acessórios,85.52,Cartão de débito
+643,2023-07-29,Outros,Imprevisto,25.29,Cartão de débito
+644,2023-07-30,Transporte,Combustível,128.16,Boleto
+645,2023-07-30,Outros,Diversos,108.23,Pix
+646,2023-07-30,Lazer,Jogos,155.11,Boleto
+647,2023-07-30,Transporte,Manutenção do veículo,128.48,Dinheiro
+648,2023-07-30,Saúde,Consulta médica,772.97,Cartão de débito
+649,2023-07-31,Alimentação,Feira,136.76,Boleto
+650,2023-07-31,Saúde,Plano de saúde,478.23,Cartão de débito
+651,2023-07-31,Alimentação,Feira,70.54,Dinheiro
+652,2023-07-31,Alimentação,Feira,57.16,Dinheiro
+653,2023-08-01,Saúde,Exames,645.61,Cartão de crédito
+654,2023-08-01,Lazer,Streaming,161.6,Cartão de crédito
+655,2023-08-01,Alimentação,Restaurante,56.62,Dinheiro
+656,2023-08-02,Vestuário,Calçados,260.48,Boleto
+657,2023-08-04,Lazer,Show,218.41,Boleto
+658,2023-08-04,Lazer,Show,290.58,Cartão de débito
+659,2023-08-04,Alimentação,Supermercado,36.12,Dinheiro
+660,2023-08-04,Saúde,Farmácia,719.51,Pix
+661,2023-08-04,Moradia,Aluguel,1350.97,Cartão de débito
+662,2023-08-04,Saúde,Plano de saúde,26.15,Boleto
+663,2023-08-04,Vestuário,Roupas,51.79,Cartão de crédito
+664,2023-08-05,Vestuário,Calçados,79.21,Cartão de crédito
+665,2023-08-06,Saúde,Dentista,826.59,Boleto
+666,2023-08-07,Alimentação,Delivery,192.94,Dinheiro
+667,2023-08-08,Outros,Imprevisto,78.54,Cartão de débito
+668,2023-08-08,Saúde,Dentista,673.52,Boleto
+669,2023-08-09,Moradia,Água,1962.75,Pix
+670,2023-08-09,Vestuário,Roupas,157.84,Cartão de débito
+671,2023-08-09,Outros,Doação,77.91,Dinheiro
+672,2023-08-10,Moradia,Água,2184.68,Cartão de débito
+673,2023-08-10,Outros,Doação,33.31,Boleto
+674,2023-08-10,Transporte,Pedágio,171.67,Boleto
+675,2023-08-11,Saúde,Exames,417.46,Dinheiro
+676,2023-08-12,Alimentação,Delivery,75.64,Cartão de crédito
+677,2023-08-12,Alimentação,Restaurante,60.33,Boleto
+678,2023-08-12,Transporte,Manutenção do veículo,160.52,Cartão de débito
+679,2023-08-12,Saúde,Dentista,32.31,Dinheiro
+680,2023-08-13,Lazer,Cinema,272.07,Cartão de débito
+681,2023-08-13,Saúde,Exames,835.7,Pix
+682,2023-08-13,Vestuário,Acessórios,264.33,Cartão de débito
+683,2023-08-13,Lazer,Cinema,91.83,Cartão de crédito
+684,2023-08-13,Moradia,Internet,1046.26,Pix
+685,2023-08-14,Alimentação,Supermercado,160.11,Cartão de débito
+686,2023-08-15,Transporte,Manutenção do veículo,34.42,Cartão de crédito
+687,2023-08-15,Educação,Material escolar,656.7,Dinheiro
+688,2023-08-15,Serviços,Manutenção doméstica,338.4,Pix
+689,2023-08-16,Lazer,Bar,54.12,Dinheiro
+690,2023-08-16,Transporte,Manutenção do veículo,88.86,Dinheiro
+691,2023-08-17,Alimentação,Lanchonete,54.59,Pix
+692,2023-08-17,Vestuário,Calçados,412.75,Cartão de crédito
+693,2023-08-17,Transporte,Combustível,55.92,Cartão de crédito
+694,2023-08-18,Educação,Mensalidade curso,750.92,Cartão de crédito
+695,2023-08-19,Alimentação,Restaurante,90.25,Boleto
+696,2023-08-20,Alimentação,Feira,210.6,Cartão de crédito
+697,2023-08-20,Educação,Mensalidade curso,911.73,Boleto
+698,2023-08-20,Outros,Presente,111.72,Cartão de débito
+699,2023-08-22,Lazer,Streaming,192.97,Boleto
+700,2023-08-22,Lazer,Cinema,15.78,Cartão de débito
+701,2023-08-22,Alimentação,Feira,214.71,Pix
+702,2023-08-22,Transporte,Aplicativo de transporte,177.35,Cartão de crédito
+703,2023-08-22,Serviços,Lavanderia,215.66,Dinheiro
+704,2023-08-22,Alimentação,Supermercado,29.63,Boleto
+705,2023-08-22,Transporte,Estacionamento,136.1,Cartão de débito
+706,2023-08-23,Outros,Imprevisto,125.71,Pix
+707,2023-08-23,Alimentação,Padaria,66.19,Pix
+708,2023-08-23,Alimentação,Lanchonete,97.26,Cartão de débito
+709,2023-08-24,Moradia,Condomínio,1562.54,Cartão de crédito
+710,2023-08-25,Vestuário,Roupas,243.8,Dinheiro
+711,2023-08-26,Saúde,Farmácia,621.57,Cartão de débito
+712,2023-08-26,Vestuário,Acessórios,162.83,Boleto
+713,2023-08-26,Serviços,Assinatura de app,407.59,Cartão de débito
+714,2023-08-27,Transporte,Manutenção do veículo,30.82,Cartão de crédito
+715,2023-08-27,Transporte,Manutenção do veículo,57.55,Dinheiro
+716,2023-08-27,Serviços,Assinatura de app,37.7,Dinheiro
+717,2023-08-28,Transporte,Pedágio,54.79,Boleto
+718,2023-08-28,Outros,Presente,242.15,Pix
+719,2023-08-29,Educação,Livros,244.42,Cartão de débito
+720,2023-08-29,Transporte,Manutenção do veículo,60.95,Cartão de crédito
+721,2023-08-29,Lazer,Show,195.78,Dinheiro
+722,2023-08-29,Transporte,Combustível,40.57,Pix
+723,2023-08-30,Educação,Livros,335.31,Pix
+724,2023-08-30,Transporte,Aplicativo de transporte,155.4,Dinheiro
+725,2023-08-30,Educação,Material escolar,865.67,Boleto
+726,2023-09-01,Transporte,Manutenção do veículo,89.95,Cartão de débito
+727,2023-09-02,Transporte,Pedágio,27.9,Pix
+728,2023-09-02,Educação,Mensalidade curso,927.84,Pix
+729,2023-09-02,Outros,Presente,156.53,Boleto
+730,2023-09-02,Alimentação,Supermercado,140.13,Cartão de débito
+731,2023-09-03,Alimentação,Supermercado,194.99,Cartão de crédito
+732,2023-09-03,Lazer,Viagem,193.74,Boleto
+733,2023-09-03,Serviços,Manutenção doméstica,95.81,Cartão de crédito
+734,2023-09-03,Transporte,Combustível,99.77,Cartão de débito
+735,2023-09-04,Lazer,Bar,206.62,Pix
+736,2023-09-04,Vestuário,Acessórios,147.29,Cartão de débito
+737,2023-09-04,Saúde,Plano de saúde,376.83,Boleto
+738,2023-09-04,Alimentação,Lanchonete,155.49,Dinheiro
+739,2023-09-05,Saúde,Dentista,81.38,Cartão de crédito
+740,2023-09-06,Alimentação,Lanchonete,174.24,Boleto
+741,2023-09-06,Lazer,Streaming,54.81,Cartão de crédito
+742,2023-09-07,Moradia,Condomínio,386.64,Boleto
+743,2023-09-07,Saúde,Plano de saúde,480.33,Boleto
+744,2023-09-07,Alimentação,Restaurante,132.56,Cartão de débito
+745,2023-09-08,Transporte,Manutenção do veículo,32.61,Pix
+746,2023-09-08,Alimentação,Feira,104.07,Boleto
+747,2023-09-08,Alimentação,Feira,64.38,Pix
+748,2023-09-09,Moradia,Gás,1467.77,Pix
+749,2023-09-09,Alimentação,Supermercado,206.14,Cartão de débito
+750,2023-09-09,Saúde,Dentista,374.6,Dinheiro
+751,2023-09-11,Alimentação,Restaurante,19.18,Cartão de débito
+752,2023-09-11,Lazer,Viagem,25.22,Cartão de crédito
+753,2023-09-11,Transporte,Manutenção do veículo,106.41,Cartão de débito
+754,2023-09-11,Alimentação,Restaurante,178.1,Boleto
+755,2023-09-12,Alimentação,Padaria,171.71,Boleto
+756,2023-09-12,Saúde,Dentista,520.01,Pix
+757,2023-09-12,Transporte,Manutenção do veículo,170.59,Pix
+758,2023-09-13,Alimentação,Lanchonete,25.36,Cartão de débito
+759,2023-09-14,Educação,Livros,696.04,Cartão de crédito
+760,2023-09-14,Vestuário,Roupas,72.87,Cartão de débito
+761,2023-09-14,Alimentação,Lanchonete,211.05,Cartão de débito
+762,2023-09-14,Alimentação,Delivery,151.22,Cartão de débito
+763,2023-09-14,Saúde,Exames,493.46,Cartão de crédito
+764,2023-09-14,Moradia,Condomínio,569.34,Cartão de crédito
+765,2023-09-14,Transporte,Ônibus,87.88,Cartão de crédito
+766,2023-09-15,Outros,Imprevisto,183.02,Boleto
+767,2023-09-15,Transporte,Manutenção do veículo,163.77,Dinheiro
+768,2023-09-16,Vestuário,Calçados,134.26,Cartão de crédito
+769,2023-09-16,Educação,Material escolar,898.13,Dinheiro
+770,2023-09-16,Moradia,Gás,404.63,Cartão de crédito
+771,2023-09-17,Alimentação,Lanchonete,147.61,Pix
+772,2023-09-17,Transporte,Manutenção do veículo,98.82,Pix
+773,2023-09-17,Saúde,Plano de saúde,280.15,Cartão de crédito
+774,2023-09-17,Saúde,Exames,339.27,Pix
+775,2023-09-18,Educação,Plataforma online,210.66,Cartão de débito
+776,2023-09-18,Saúde,Farmácia,659.13,Cartão de crédito
+777,2023-09-18,Transporte,Pedágio,106.21,Cartão de débito
+778,2023-09-19,Transporte,Estacionamento,26.0,Dinheiro
+779,2023-09-19,Educação,Livros,395.95,Boleto
+780,2023-09-20,Alimentação,Delivery,45.65,Boleto
+781,2023-09-20,Vestuário,Roupas,310.96,Dinheiro
+782,2023-09-20,Educação,Material escolar,455.64,Pix
+783,2023-09-21,Lazer,Jogos,164.03,Dinheiro
+784,2023-09-21,Alimentação,Padaria,215.86,Cartão de débito
+785,2023-09-23,Lazer,Show,271.16,Boleto
+786,2023-09-24,Transporte,Ônibus,42.04,Pix
+787,2023-09-24,Saúde,Exames,848.95,Cartão de débito
+788,2023-09-24,Transporte,Ônibus,70.08,Cartão de crédito
+789,2023-09-25,Transporte,Estacionamento,159.49,Cartão de crédito
+790,2023-09-25,Educação,Material escolar,906.49,Cartão de débito
+791,2023-09-26,Alimentação,Delivery,117.87,Cartão de débito
+792,2023-09-27,Lazer,Cinema,190.88,Dinheiro
+793,2023-09-27,Moradia,Energia elétrica,638.41,Boleto
+794,2023-09-27,Saúde,Exames,495.38,Dinheiro
+795,2023-09-28,Vestuário,Acessórios,314.6,Cartão de crédito
+796,2023-09-28,Vestuário,Acessórios,273.77,Cartão de débito
+797,2023-09-28,Lazer,Show,247.98,Cartão de crédito
+798,2023-09-28,Alimentação,Lanchonete,134.72,Cartão de crédito
+799,2023-09-28,Saúde,Consulta médica,384.51,Pix
+800,2023-09-29,Transporte,Pedágio,126.22,Cartão de crédito
+801,2023-09-29,Educação,Plataforma online,737.93,Boleto
+802,2023-09-29,Vestuário,Roupas,307.41,Cartão de crédito
+803,2023-09-30,Saúde,Plano de saúde,630.8,Cartão de crédito
+804,2023-10-01,Educação,Livros,597.25,Cartão de débito
+805,2023-10-02,Transporte,Manutenção do veículo,54.63,Boleto
+806,2023-10-02,Serviços,Manutenção doméstica,64.62,Cartão de débito
+807,2023-10-02,Saúde,Dentista,551.44,Cartão de crédito
+808,2023-10-03,Lazer,Cinema,199.52,Cartão de débito
+809,2023-10-03,Moradia,Energia elétrica,1237.87,Cartão de crédito
+810,2023-10-03,Lazer,Viagem,298.66,Pix
+811,2023-10-04,Alimentação,Delivery,41.08,Boleto
+812,2023-10-04,Transporte,Aplicativo de transporte,35.82,Cartão de crédito
+813,2023-10-05,Alimentação,Supermercado,149.23,Cartão de crédito
+814,2023-10-06,Moradia,Internet,978.91,Dinheiro
+815,2023-10-06,Transporte,Aplicativo de transporte,170.12,Boleto
+816,2023-10-07,Moradia,Energia elétrica,141.53,Dinheiro
+817,2023-10-08,Transporte,Estacionamento,86.24,Cartão de crédito
+818,2023-10-08,Moradia,Energia elétrica,806.86,Dinheiro
+819,2023-10-08,Outros,Imprevisto,179.57,Cartão de débito
+820,2023-10-08,Moradia,Gás,712.47,Dinheiro
+821,2023-10-09,Alimentação,Delivery,192.34,Cartão de crédito
+822,2023-10-09,Alimentação,Delivery,209.45,Cartão de débito
+823,2023-10-09,Transporte,Combustível,159.6,Boleto
+824,2023-10-10,Alimentação,Supermercado,194.42,Cartão de crédito
+825,2023-10-10,Moradia,Aluguel,1106.57,Pix
+826,2023-10-10,Alimentação,Restaurante,45.33,Cartão de débito
+827,2023-10-11,Serviços,Assinatura de app,89.45,Boleto
+828,2023-10-11,Serviços,Assinatura de app,80.91,Cartão de débito
+829,2023-10-11,Vestuário,Acessórios,82.38,Pix
+830,2023-10-11,Moradia,Internet,2137.73,Pix
+831,2023-10-12,Moradia,Condomínio,1848.31,Pix
+832,2023-10-12,Alimentação,Delivery,134.99,Dinheiro
+833,2023-10-12,Alimentação,Delivery,60.65,Dinheiro
+834,2023-10-12,Transporte,Ônibus,112.76,Pix
+835,2023-10-13,Moradia,Aluguel,1933.91,Dinheiro
+836,2023-10-13,Lazer,Bar,248.62,Pix
+837,2023-10-13,Moradia,Água,1235.57,Cartão de débito
+838,2023-10-14,Serviços,Manutenção doméstica,356.57,Boleto
+839,2023-10-14,Serviços,Assinatura de app,312.99,Dinheiro
+840,2023-10-15,Vestuário,Acessórios,364.71,Cartão de crédito
+841,2023-10-16,Educação,Livros,693.03,Pix
+842,2023-10-16,Lazer,Viagem,168.39,Cartão de débito
+843,2023-10-17,Lazer,Bar,270.43,Dinheiro
+844,2023-10-17,Moradia,Energia elétrica,1211.34,Pix
+845,2023-10-17,Transporte,Combustível,117.16,Cartão de crédito
+846,2023-10-17,Lazer,Viagem,41.29,Cartão de débito
+847,2023-10-17,Outros,Diversos,130.05,Dinheiro
+848,2023-10-18,Saúde,Plano de saúde,473.58,Cartão de débito
+849,2023-10-18,Moradia,Água,1791.71,Cartão de débito
+850,2023-10-18,Alimentação,Feira,182.92,Cartão de crédito
+851,2023-10-19,Alimentação,Padaria,25.18,Cartão de débito
+852,2023-10-19,Lazer,Bar,185.53,Pix
+853,2023-10-19,Transporte,Estacionamento,122.81,Dinheiro
+854,2023-10-19,Educação,Material escolar,524.07,Dinheiro
+855,2023-10-19,Alimentação,Padaria,66.53,Dinheiro
+856,2023-10-19,Educação,Livros,908.53,Cartão de crédito
+857,2023-10-20,Saúde,Exames,723.92,Cartão de débito
+858,2023-10-20,Alimentação,Padaria,175.71,Boleto
+859,2023-10-20,Alimentação,Supermercado,67.39,Cartão de débito
+860,2023-10-20,Saúde,Consulta médica,823.37,Pix
+861,2023-10-20,Moradia,Aluguel,2005.98,Dinheiro
+862,2023-10-21,Alimentação,Padaria,176.08,Pix
+863,2023-10-21,Saúde,Plano de saúde,95.32,Dinheiro
+864,2023-10-21,Transporte,Pedágio,79.86,Cartão de débito
+865,2023-10-21,Transporte,Estacionamento,23.19,Pix
+866,2023-10-22,Educação,Plataforma online,183.76,Pix
+867,2023-10-22,Transporte,Combustível,118.03,Boleto
+868,2023-10-22,Transporte,Manutenção do veículo,57.03,Dinheiro
+869,2023-10-23,Alimentação,Padaria,118.37,Pix
+870,2023-10-24,Outros,Presente,215.28,Dinheiro
+871,2023-10-24,Alimentação,Lanchonete,19.28,Cartão de débito
+872,2023-10-24,Educação,Mensalidade curso,200.72,Dinheiro
+873,2023-10-24,Transporte,Combustível,116.82,Boleto
+874,2023-10-25,Outros,Imprevisto,217.4,Cartão de débito
+875,2023-10-25,Alimentação,Padaria,96.93,Boleto
+876,2023-10-26,Saúde,Exames,250.58,Dinheiro
+877,2023-10-26,Vestuário,Calçados,56.97,Dinheiro
+878,2023-10-26,Moradia,Energia elétrica,1954.92,Dinheiro
+879,2023-10-26,Alimentação,Restaurante,19.52,Boleto
+880,2023-10-26,Serviços,Assinatura de app,120.69,Cartão de crédito
+881,2023-10-27,Lazer,Viagem,53.52,Cartão de crédito
+882,2023-10-27,Moradia,Gás,860.47,Cartão de crédito
+883,2023-10-28,Moradia,Gás,1041.89,Pix
+884,2023-10-28,Alimentação,Supermercado,177.18,Pix
+885,2023-10-28,Alimentação,Padaria,169.29,Dinheiro
+886,2023-10-28,Lazer,Viagem,134.06,Pix
+887,2023-10-28,Alimentação,Supermercado,40.56,Pix
+888,2023-10-29,Vestuário,Calçados,273.79,Cartão de débito
+889,2023-10-29,Moradia,Aluguel,329.7,Boleto
+890,2023-10-30,Alimentação,Feira,82.62,Boleto
+891,2023-10-30,Vestuário,Roupas,308.11,Pix
+892,2023-10-30,Transporte,Estacionamento,78.25,Cartão de crédito
+893,2023-10-30,Moradia,Gás,1957.86,Boleto
+894,2023-10-31,Lazer,Streaming,183.41,Cartão de débito
+895,2023-11-01,Serviços,Manutenção doméstica,495.22,Boleto
+896,2023-11-01,Serviços,Manutenção doméstica,35.47,Pix
+897,2023-11-01,Transporte,Manutenção do veículo,13.69,Boleto
+898,2023-11-02,Transporte,Ônibus,175.26,Pix
+899,2023-11-02,Moradia,Água,1604.48,Boleto
+900,2023-11-02,Educação,Material escolar,871.89,Cartão de crédito
+901,2023-11-02,Moradia,Energia elétrica,996.6,Boleto
+902,2023-11-02,Saúde,Plano de saúde,29.3,Cartão de débito
+903,2023-11-02,Saúde,Farmácia,107.04,Boleto
+904,2023-11-02,Transporte,Pedágio,5.9,Cartão de débito
+905,2023-11-03,Outros,Doação,34.86,Pix
+906,2023-11-03,Alimentação,Feira,64.3,Boleto
+907,2023-11-03,Vestuário,Calçados,243.64,Boleto
+908,2023-11-03,Transporte,Combustível,9.07,Cartão de débito
+909,2023-11-03,Serviços,Assinatura de app,123.3,Boleto
+910,2023-11-04,Lazer,Jogos,273.6,Cartão de crédito
+911,2023-11-05,Moradia,Aluguel,2123.74,Dinheiro
+912,2023-11-05,Transporte,Aplicativo de transporte,30.54,Dinheiro
+913,2023-11-05,Moradia,Internet,294.08,Pix
+914,2023-11-06,Transporte,Pedágio,175.78,Dinheiro
+915,2023-11-06,Educação,Plataforma online,790.12,Boleto
+916,2023-11-06,Alimentação,Supermercado,76.98,Pix
+917,2023-11-06,Alimentação,Restaurante,42.7,Cartão de crédito
+918,2023-11-07,Moradia,Energia elétrica,1919.15,Cartão de crédito
+919,2023-11-08,Lazer,Show,110.68,Cartão de crédito
+920,2023-11-09,Transporte,Aplicativo de transporte,73.84,Cartão de crédito
+921,2023-11-09,Outros,Imprevisto,82.78,Cartão de crédito
+922,2023-11-09,Educação,Material escolar,119.12,Dinheiro
+923,2023-11-10,Moradia,Condomínio,1601.45,Dinheiro
+924,2023-11-10,Lazer,Streaming,144.22,Pix
+925,2023-11-11,Vestuário,Acessórios,67.94,Cartão de débito
+926,2023-11-11,Outros,Presente,172.87,Boleto
+927,2023-11-11,Transporte,Combustível,32.04,Boleto
+928,2023-11-12,Moradia,Aluguel,1887.26,Cartão de débito
+929,2023-11-12,Lazer,Cinema,110.92,Pix
+930,2023-11-13,Educação,Material escolar,336.83,Boleto
+931,2023-11-13,Alimentação,Supermercado,22.78,Cartão de débito
+932,2023-11-13,Transporte,Estacionamento,134.08,Cartão de débito
+933,2023-11-13,Saúde,Farmácia,824.38,Dinheiro
+934,2023-11-14,Outros,Imprevisto,177.64,Cartão de débito
+935,2023-11-14,Saúde,Dentista,841.03,Dinheiro
+936,2023-11-15,Saúde,Farmácia,480.61,Cartão de débito
+937,2023-11-15,Lazer,Bar,138.03,Boleto
+938,2023-11-15,Educação,Plataforma online,348.25,Cartão de crédito
+939,2023-11-15,Saúde,Consulta médica,471.44,Cartão de débito
+940,2023-11-16,Transporte,Manutenção do veículo,142.25,Dinheiro
+941,2023-11-16,Alimentação,Padaria,93.63,Pix
+942,2023-11-16,Lazer,Viagem,57.4,Boleto
+943,2023-11-17,Educação,Livros,380.61,Dinheiro
+944,2023-11-17,Moradia,Condomínio,1272.55,Cartão de débito
+945,2023-11-17,Serviços,Assinatura de app,352.81,Cartão de crédito
+946,2023-11-17,Vestuário,Roupas,277.52,Cartão de débito
+947,2023-11-17,Educação,Plataforma online,408.64,Cartão de débito
+948,2023-11-18,Educação,Material escolar,153.41,Boleto
+949,2023-11-19,Saúde,Plano de saúde,847.4,Dinheiro
+950,2023-11-20,Serviços,Salão de beleza,106.57,Dinheiro
+951,2023-11-20,Moradia,Internet,828.56,Cartão de crédito
+952,2023-11-21,Outros,Imprevisto,223.94,Boleto
+953,2023-11-21,Transporte,Ônibus,21.02,Dinheiro
+954,2023-11-21,Alimentação,Feira,213.85,Pix
+955,2023-11-22,Lazer,Viagem,230.09,Dinheiro
+956,2023-11-22,Vestuário,Roupas,86.75,Pix
+957,2023-11-22,Transporte,Estacionamento,172.85,Cartão de débito
+958,2023-11-23,Lazer,Viagem,277.54,Cartão de débito
+959,2023-11-23,Alimentação,Delivery,24.16,Cartão de crédito
+960,2023-11-23,Saúde,Plano de saúde,49.18,Cartão de crédito
+961,2023-11-23,Moradia,Água,1100.33,Boleto
+962,2023-11-24,Moradia,Energia elétrica,1549.76,Cartão de débito
+963,2023-11-25,Alimentação,Padaria,73.75,Pix
+964,2023-11-26,Educação,Mensalidade curso,496.24,Dinheiro
+965,2023-11-26,Transporte,Ônibus,165.27,Pix
+966,2023-11-26,Vestuário,Roupas,339.31,Boleto
+967,2023-11-27,Serviços,Assinatura de app,321.06,Dinheiro
+968,2023-11-27,Saúde,Dentista,663.27,Pix
+969,2023-11-27,Alimentação,Delivery,164.29,Boleto
+970,2023-11-27,Vestuário,Acessórios,320.08,Boleto
+971,2023-11-28,Moradia,Energia elétrica,317.16,Pix
+972,2023-11-28,Outros,Diversos,80.23,Boleto
+973,2023-11-28,Alimentação,Delivery,45.28,Cartão de débito
+974,2023-11-28,Outros,Doação,105.41,Dinheiro
+975,2023-11-29,Vestuário,Calçados,144.41,Dinheiro
+976,2023-11-29,Serviços,Lavanderia,25.92,Dinheiro
+977,2023-11-29,Moradia,Água,144.16,Cartão de crédito
+978,2023-11-29,Alimentação,Padaria,155.24,Cartão de débito
+979,2023-11-29,Lazer,Viagem,253.0,Boleto
+980,2023-11-29,Transporte,Estacionamento,106.79,Cartão de débito
+981,2023-11-30,Serviços,Manutenção doméstica,244.25,Boleto
+982,2023-11-30,Saúde,Plano de saúde,83.51,Boleto
+983,2023-11-30,Transporte,Estacionamento,46.5,Cartão de débito
+984,2023-11-30,Alimentação,Padaria,143.08,Dinheiro
+985,2023-11-30,Alimentação,Lanchonete,161.23,Dinheiro
+986,2023-11-30,Moradia,Condomínio,429.46,Boleto
+987,2023-12-01,Serviços,Assinatura de app,217.21,Cartão de crédito
+988,2023-12-02,Vestuário,Calçados,107.48,Pix
+989,2023-12-03,Serviços,Lavanderia,432.48,Pix
+990,2023-12-03,Alimentação,Delivery,154.67,Cartão de crédito
+991,2023-12-03,Serviços,Lavanderia,442.03,Dinheiro
+992,2023-12-04,Moradia,Gás,359.36,Cartão de débito
+993,2023-12-04,Saúde,Consulta médica,457.83,Boleto
+994,2023-12-05,Moradia,Aluguel,2067.49,Cartão de débito
+995,2023-12-06,Outros,Diversos,37.68,Cartão de débito
+996,2023-12-06,Educação,Material escolar,931.71,Cartão de crédito
+997,2023-12-06,Moradia,Gás,1648.26,Cartão de crédito
+998,2023-12-06,Alimentação,Supermercado,208.17,Cartão de débito
+999,2023-12-06,Lazer,Viagem,30.03,Pix
+1000,2023-12-06,Saúde,Exames,536.3,Pix
+1001,2023-12-06,Moradia,Energia elétrica,2116.43,Pix
+1002,2023-12-06,Vestuário,Calçados,176.61,Cartão de débito
+1003,2023-12-06,Transporte,Pedágio,146.76,Boleto
+1004,2023-12-07,Transporte,Aplicativo de transporte,164.07,Cartão de débito
+1005,2023-12-07,Educação,Mensalidade curso,200.91,Cartão de crédito
+1006,2023-12-07,Alimentação,Delivery,171.15,Pix
+1007,2023-12-08,Transporte,Manutenção do veículo,27.04,Cartão de débito
+1008,2023-12-08,Alimentação,Delivery,144.23,Dinheiro
+1009,2023-12-08,Saúde,Farmácia,220.31,Boleto
+1010,2023-12-08,Lazer,Streaming,59.63,Pix
+1011,2023-12-09,Moradia,Gás,1825.89,Boleto
+1012,2023-12-09,Transporte,Estacionamento,24.87,Boleto
+1013,2023-12-09,Vestuário,Roupas,77.96,Dinheiro
+1014,2023-12-11,Transporte,Manutenção do veículo,104.12,Dinheiro
+1015,2023-12-12,Vestuário,Acessórios,413.06,Dinheiro
+1016,2023-12-12,Alimentação,Supermercado,125.38,Dinheiro
+1017,2023-12-13,Outros,Doação,83.22,Pix
+1018,2023-12-15,Serviços,Manutenção doméstica,371.57,Pix
+1019,2023-12-15,Vestuário,Acessórios,330.06,Pix
+1020,2023-12-15,Vestuário,Roupas,152.1,Dinheiro
+1021,2023-12-15,Lazer,Jogos,300.85,Cartão de crédito
+1022,2023-12-16,Transporte,Aplicativo de transporte,14.5,Dinheiro
+1023,2023-12-16,Transporte,Ônibus,115.89,Boleto
+1024,2023-12-16,Serviços,Salão de beleza,335.33,Dinheiro
+1025,2023-12-16,Moradia,Aluguel,1286.11,Cartão de débito
+1026,2023-12-16,Alimentação,Delivery,112.52,Dinheiro
+1027,2023-12-17,Alimentação,Delivery,91.97,Cartão de crédito
+1028,2023-12-17,Saúde,Farmácia,219.83,Boleto
+1029,2023-12-18,Transporte,Aplicativo de transporte,92.28,Dinheiro
+1030,2023-12-18,Transporte,Ônibus,60.45,Pix
+1031,2023-12-19,Serviços,Lavanderia,146.79,Boleto
+1032,2023-12-19,Alimentação,Restaurante,56.08,Cartão de crédito
+1033,2023-12-20,Vestuário,Acessórios,294.35,Boleto
+1034,2023-12-21,Outros,Diversos,134.54,Cartão de crédito
+1035,2023-12-21,Serviços,Lavanderia,334.87,Cartão de débito
+1036,2023-12-21,Vestuário,Calçados,187.49,Boleto
+1037,2023-12-22,Outros,Doação,76.36,Dinheiro
+1038,2023-12-22,Lazer,Show,123.39,Cartão de débito
+1039,2023-12-22,Lazer,Show,232.05,Dinheiro
+1040,2023-12-23,Moradia,Gás,1008.91,Dinheiro
+1041,2023-12-23,Moradia,Condomínio,1262.35,Cartão de crédito
+1042,2023-12-23,Transporte,Pedágio,154.65,Boleto
+1043,2023-12-24,Outros,Imprevisto,109.58,Boleto
+1044,2023-12-24,Saúde,Plano de saúde,795.95,Pix
+1045,2023-12-24,Transporte,Aplicativo de transporte,153.63,Pix
+1046,2023-12-26,Moradia,Energia elétrica,1620.85,Boleto
+1047,2023-12-26,Lazer,Streaming,206.56,Dinheiro
+1048,2023-12-26,Moradia,Energia elétrica,1873.02,Pix
+1049,2023-12-26,Lazer,Cinema,90.33,Cartão de débito
+1050,2023-12-27,Lazer,Show,97.63,Cartão de débito
+1051,2023-12-27,Vestuário,Acessórios,35.03,Pix
+1052,2023-12-28,Vestuário,Calçados,164.56,Boleto
+1053,2023-12-28,Serviços,Lavanderia,261.71,Pix
+1054,2023-12-28,Outros,Diversos,100.33,Dinheiro
+1055,2023-12-28,Outros,Imprevisto,111.45,Cartão de débito
+1056,2023-12-29,Outros,Presente,235.44,Cartão de crédito
+1057,2023-12-30,Alimentação,Delivery,69.73,Cartão de crédito
+1058,2023-12-30,Serviços,Salão de beleza,293.75,Boleto
+1059,2023-12-31,Moradia,Energia elétrica,183.78,Pix
+1060,2023-12-31,Educação,Mensalidade curso,678.21,Cartão de débito
+1061,2023-12-31,Alimentação,Padaria,69.32,Cartão de débito
+1062,2023-12-31,Transporte,Pedágio,148.05,Boleto
+1063,2023-12-31,Outros,Presente,178.64,Pix
+1064,2024-01-02,Serviços,Manutenção doméstica,70.95,Boleto
+1065,2024-01-03,Serviços,Assinatura de app,191.38,Cartão de débito
+1066,2024-01-03,Serviços,Salão de beleza,161.37,Pix
+1067,2024-01-04,Lazer,Cinema,46.18,Cartão de débito
+1068,2024-01-04,Vestuário,Acessórios,151.96,Cartão de crédito
+1069,2024-01-04,Saúde,Plano de saúde,793.77,Pix
+1070,2024-01-04,Outros,Imprevisto,117.4,Cartão de crédito
+1071,2024-01-04,Vestuário,Acessórios,90.16,Cartão de débito
+1072,2024-01-04,Alimentação,Restaurante,21.09,Pix
+1073,2024-01-05,Serviços,Assinatura de app,434.56,Cartão de crédito
+1074,2024-01-05,Serviços,Manutenção doméstica,155.8,Boleto
+1075,2024-01-05,Educação,Plataforma online,263.36,Cartão de débito
+1076,2024-01-06,Saúde,Farmácia,606.27,Cartão de débito
+1077,2024-01-06,Alimentação,Padaria,219.5,Dinheiro
+1078,2024-01-06,Alimentação,Feira,74.89,Boleto
+1079,2024-01-06,Lazer,Jogos,190.58,Cartão de débito
+1080,2024-01-07,Transporte,Ônibus,171.45,Dinheiro
+1081,2024-01-07,Moradia,Energia elétrica,859.61,Cartão de crédito
+1082,2024-01-08,Moradia,Energia elétrica,2091.61,Boleto
+1083,2024-01-08,Moradia,Gás,1563.18,Pix
+1084,2024-01-10,Moradia,Internet,1969.85,Pix
+1085,2024-01-10,Saúde,Farmácia,766.04,Boleto
+1086,2024-01-10,Saúde,Farmácia,817.76,Dinheiro
+1087,2024-01-10,Alimentação,Supermercado,65.23,Boleto
+1088,2024-01-12,Educação,Plataforma online,559.08,Dinheiro
+1089,2024-01-12,Alimentação,Padaria,173.53,Cartão de crédito
+1090,2024-01-12,Alimentação,Supermercado,131.28,Boleto
+1091,2024-01-12,Alimentação,Supermercado,38.91,Dinheiro
+1092,2024-01-13,Saúde,Consulta médica,432.02,Boleto
+1093,2024-01-13,Serviços,Lavanderia,413.73,Boleto
+1094,2024-01-13,Alimentação,Feira,196.52,Pix
+1095,2024-01-13,Moradia,Água,1534.71,Boleto
+1096,2024-01-13,Transporte,Manutenção do veículo,170.62,Pix
+1097,2024-01-14,Transporte,Manutenção do veículo,61.77,Boleto
+1098,2024-01-14,Transporte,Manutenção do veículo,122.0,Pix
+1099,2024-01-15,Transporte,Manutenção do veículo,138.54,Cartão de débito
+1100,2024-01-15,Saúde,Consulta médica,112.6,Dinheiro
+1101,2024-01-15,Serviços,Lavanderia,197.31,Cartão de crédito
+1102,2024-01-16,Alimentação,Lanchonete,175.13,Cartão de crédito
+1103,2024-01-16,Educação,Material escolar,488.03,Dinheiro
+1104,2024-01-16,Lazer,Viagem,90.86,Cartão de crédito
+1105,2024-01-16,Alimentação,Padaria,36.73,Cartão de crédito
+1106,2024-01-17,Vestuário,Acessórios,246.98,Boleto
+1107,2024-01-17,Alimentação,Lanchonete,182.56,Pix
+1108,2024-01-17,Moradia,Internet,2147.99,Pix
+1109,2024-01-17,Lazer,Streaming,140.66,Cartão de crédito
+1110,2024-01-17,Educação,Plataforma online,896.46,Cartão de crédito
+1111,2024-01-18,Transporte,Ônibus,179.04,Cartão de débito
+1112,2024-01-18,Transporte,Combustível,7.84,Pix
+1113,2024-01-18,Vestuário,Calçados,162.24,Cartão de débito
+1114,2024-01-18,Outros,Doação,120.16,Cartão de débito
+1115,2024-01-18,Outros,Doação,91.11,Boleto
+1116,2024-01-19,Outros,Imprevisto,101.8,Dinheiro
+1117,2024-01-19,Moradia,Internet,1717.37,Boleto
+1118,2024-01-19,Moradia,Energia elétrica,1064.25,Pix
+1119,2024-01-19,Transporte,Combustível,19.83,Pix
+1120,2024-01-19,Alimentação,Lanchonete,194.12,Cartão de crédito
+1121,2024-01-20,Moradia,Aluguel,1423.29,Dinheiro
+1122,2024-01-20,Serviços,Lavanderia,55.29,Cartão de crédito
+1123,2024-01-20,Outros,Presente,225.88,Cartão de débito
+1124,2024-01-21,Alimentação,Delivery,52.07,Boleto
+1125,2024-01-21,Transporte,Ônibus,142.53,Cartão de crédito
+1126,2024-01-21,Serviços,Assinatura de app,240.32,Dinheiro
+1127,2024-01-21,Saúde,Farmácia,572.41,Pix
+1128,2024-01-21,Lazer,Viagem,19.77,Cartão de crédito
+1129,2024-01-21,Outros,Doação,112.51,Cartão de crédito
+1130,2024-01-22,Alimentação,Feira,218.09,Boleto
+1131,2024-01-22,Saúde,Plano de saúde,660.22,Dinheiro
+1132,2024-01-22,Lazer,Show,298.29,Cartão de débito
+1133,2024-01-23,Alimentação,Delivery,75.1,Boleto
+1134,2024-01-23,Transporte,Estacionamento,70.69,Boleto
+1135,2024-01-23,Transporte,Pedágio,18.86,Cartão de débito
+1136,2024-01-24,Alimentação,Feira,95.04,Pix
+1137,2024-01-24,Transporte,Estacionamento,171.46,Pix
+1138,2024-01-24,Vestuário,Calçados,126.53,Cartão de débito
+1139,2024-01-24,Saúde,Dentista,293.48,Pix
+1140,2024-01-24,Lazer,Show,133.97,Cartão de débito
+1141,2024-01-25,Saúde,Plano de saúde,610.49,Dinheiro
+1142,2024-01-25,Moradia,Gás,729.67,Cartão de débito
+1143,2024-01-26,Outros,Imprevisto,137.33,Boleto
+1144,2024-01-26,Alimentação,Delivery,179.01,Cartão de débito
+1145,2024-01-26,Alimentação,Restaurante,67.31,Dinheiro
+1146,2024-01-26,Transporte,Aplicativo de transporte,74.88,Dinheiro
+1147,2024-01-27,Lazer,Streaming,244.71,Cartão de débito
+1148,2024-01-27,Lazer,Streaming,67.71,Cartão de débito
+1149,2024-01-27,Alimentação,Feira,165.5,Pix
+1150,2024-01-28,Outros,Doação,17.77,Dinheiro
+1151,2024-01-28,Transporte,Ônibus,136.91,Pix
+1152,2024-01-28,Alimentação,Delivery,124.43,Pix
+1153,2024-01-28,Alimentação,Restaurante,102.43,Boleto
+1154,2024-01-28,Lazer,Show,82.21,Dinheiro
+1155,2024-01-28,Moradia,Internet,1133.86,Dinheiro
+1156,2024-01-29,Moradia,Gás,1371.07,Cartão de débito
+1157,2024-01-30,Alimentação,Restaurante,122.87,Boleto
+1158,2024-01-30,Transporte,Aplicativo de transporte,39.14,Boleto
+1159,2024-01-31,Alimentação,Padaria,117.41,Cartão de crédito
+1160,2024-01-31,Transporte,Pedágio,45.78,Boleto
+1161,2024-02-01,Moradia,Internet,797.34,Cartão de crédito
+1162,2024-02-01,Educação,Material escolar,591.61,Boleto
+1163,2024-02-01,Saúde,Farmácia,545.29,Cartão de débito
+1164,2024-02-01,Transporte,Aplicativo de transporte,85.1,Pix
+1165,2024-02-01,Transporte,Manutenção do veículo,74.19,Cartão de crédito
+1166,2024-02-02,Moradia,Gás,1501.43,Boleto
+1167,2024-02-02,Saúde,Plano de saúde,480.44,Boleto
+1168,2024-02-02,Moradia,Aluguel,1043.84,Cartão de crédito
+1169,2024-02-02,Educação,Material escolar,643.31,Cartão de crédito
+1170,2024-02-02,Transporte,Ônibus,15.51,Cartão de débito
+1171,2024-02-03,Transporte,Pedágio,142.25,Pix
+1172,2024-02-03,Alimentação,Supermercado,211.32,Cartão de débito
+1173,2024-02-04,Serviços,Lavanderia,477.65,Boleto
+1174,2024-02-05,Serviços,Salão de beleza,390.0,Cartão de débito
+1175,2024-02-05,Vestuário,Calçados,361.29,Cartão de débito
+1176,2024-02-05,Moradia,Energia elétrica,1199.03,Pix
+1177,2024-02-06,Transporte,Aplicativo de transporte,147.63,Cartão de crédito
+1178,2024-02-06,Vestuário,Calçados,274.65,Boleto
+1179,2024-02-07,Lazer,Show,239.28,Dinheiro
+1180,2024-02-07,Alimentação,Restaurante,115.87,Boleto
+1181,2024-02-07,Serviços,Manutenção doméstica,460.6,Cartão de crédito
+1182,2024-02-07,Saúde,Farmácia,674.53,Boleto
+1183,2024-02-08,Educação,Mensalidade curso,715.65,Boleto
+1184,2024-02-08,Moradia,Aluguel,1771.8,Dinheiro
+1185,2024-02-08,Transporte,Combustível,167.6,Pix
+1186,2024-02-09,Moradia,Aluguel,782.17,Cartão de débito
+1187,2024-02-10,Transporte,Ônibus,113.53,Dinheiro
+1188,2024-02-10,Moradia,Aluguel,1476.12,Cartão de crédito
+1189,2024-02-11,Outros,Doação,57.6,Cartão de crédito
+1190,2024-02-11,Outros,Diversos,88.33,Dinheiro
+1191,2024-02-12,Transporte,Estacionamento,174.44,Cartão de crédito
+1192,2024-02-12,Outros,Imprevisto,182.53,Dinheiro
+1193,2024-02-12,Alimentação,Restaurante,103.08,Dinheiro
+1194,2024-02-12,Saúde,Dentista,543.57,Dinheiro
+1195,2024-02-12,Lazer,Cinema,312.11,Boleto
+1196,2024-02-14,Transporte,Manutenção do veículo,74.15,Cartão de débito
+1197,2024-02-14,Moradia,Gás,2082.85,Dinheiro
+1198,2024-02-15,Alimentação,Lanchonete,130.17,Boleto
+1199,2024-02-15,Saúde,Exames,786.88,Boleto
+1200,2024-02-15,Alimentação,Delivery,219.39,Cartão de crédito
+1201,2024-02-15,Educação,Livros,586.36,Cartão de crédito
+1202,2024-02-15,Educação,Livros,239.2,Boleto
+1203,2024-02-16,Moradia,Gás,308.88,Dinheiro
+1204,2024-02-16,Moradia,Aluguel,1224.29,Cartão de débito
+1205,2024-02-16,Alimentação,Restaurante,169.15,Boleto
+1206,2024-02-16,Transporte,Estacionamento,22.73,Cartão de débito
+1207,2024-02-17,Vestuário,Calçados,60.74,Boleto
+1208,2024-02-17,Serviços,Lavanderia,268.29,Cartão de débito
+1209,2024-02-18,Educação,Mensalidade curso,659.49,Dinheiro
+1210,2024-02-18,Saúde,Exames,240.41,Boleto
+1211,2024-02-18,Alimentação,Delivery,186.81,Dinheiro
+1212,2024-02-19,Lazer,Cinema,79.89,Boleto
+1213,2024-02-19,Lazer,Viagem,200.42,Pix
+1214,2024-02-19,Serviços,Manutenção doméstica,471.34,Dinheiro
+1215,2024-02-20,Alimentação,Delivery,180.46,Boleto
+1216,2024-02-20,Alimentação,Delivery,53.99,Cartão de crédito
+1217,2024-02-21,Outros,Doação,189.87,Cartão de débito
+1218,2024-02-21,Alimentação,Restaurante,88.45,Dinheiro
+1219,2024-02-21,Serviços,Salão de beleza,342.4,Dinheiro
+1220,2024-02-22,Serviços,Assinatura de app,261.72,Cartão de crédito
+1221,2024-02-23,Alimentação,Padaria,92.17,Dinheiro
+1222,2024-02-23,Transporte,Pedágio,32.09,Boleto
+1223,2024-02-23,Transporte,Ônibus,92.07,Dinheiro
+1224,2024-02-24,Serviços,Salão de beleza,485.58,Dinheiro
+1225,2024-02-24,Outros,Imprevisto,224.28,Cartão de débito
+1226,2024-02-25,Moradia,Gás,1625.64,Cartão de crédito
+1227,2024-02-25,Transporte,Combustível,150.29,Cartão de débito
+1228,2024-02-26,Alimentação,Feira,36.3,Pix
+1229,2024-02-27,Serviços,Assinatura de app,428.7,Cartão de débito
+1230,2024-02-27,Transporte,Combustível,58.13,Boleto
+1231,2024-02-27,Transporte,Aplicativo de transporte,122.48,Cartão de débito
+1232,2024-02-27,Lazer,Viagem,87.57,Cartão de débito
+1233,2024-02-27,Transporte,Aplicativo de transporte,55.23,Pix
+1234,2024-02-27,Serviços,Lavanderia,179.71,Cartão de crédito
+1235,2024-02-28,Outros,Diversos,82.8,Cartão de débito
+1236,2024-02-28,Serviços,Manutenção doméstica,46.89,Boleto
+1237,2024-02-28,Alimentação,Lanchonete,194.79,Dinheiro
+1238,2024-02-28,Educação,Material escolar,42.85,Cartão de crédito
+1239,2024-02-28,Moradia,Internet,826.69,Dinheiro
+1240,2024-02-29,Transporte,Ônibus,142.85,Cartão de crédito
+1241,2024-02-29,Transporte,Combustível,137.12,Pix
+1242,2024-02-29,Alimentação,Padaria,131.15,Cartão de crédito
+1243,2024-02-29,Alimentação,Delivery,144.81,Boleto
+1244,2024-02-29,Vestuário,Calçados,310.9,Dinheiro
+1245,2024-02-29,Alimentação,Padaria,109.73,Cartão de débito
+1246,2024-03-01,Alimentação,Padaria,42.09,Pix
+1247,2024-03-01,Moradia,Água,202.4,Pix
+1248,2024-03-01,Serviços,Assinatura de app,61.21,Pix
+1249,2024-03-01,Vestuário,Roupas,339.76,Boleto
+1250,2024-03-01,Vestuário,Acessórios,317.46,Boleto
+1251,2024-03-01,Lazer,Viagem,17.01,Pix
+1252,2024-03-02,Serviços,Lavanderia,251.68,Cartão de débito
+1253,2024-03-02,Alimentação,Delivery,52.4,Cartão de débito
+1254,2024-03-03,Serviços,Salão de beleza,104.38,Dinheiro
+1255,2024-03-04,Saúde,Exames,499.21,Cartão de débito
+1256,2024-03-04,Alimentação,Lanchonete,85.43,Boleto
+1257,2024-03-05,Saúde,Exames,624.44,Cartão de crédito
+1258,2024-03-05,Alimentação,Padaria,196.35,Cartão de débito
+1259,2024-03-05,Moradia,Gás,1675.57,Boleto
+1260,2024-03-05,Saúde,Plano de saúde,577.46,Cartão de débito
+1261,2024-03-06,Vestuário,Calçados,159.21,Boleto
+1262,2024-03-06,Transporte,Manutenção do veículo,12.6,Dinheiro
+1263,2024-03-06,Lazer,Bar,251.19,Dinheiro
+1264,2024-03-06,Alimentação,Padaria,174.26,Dinheiro
+1265,2024-03-07,Saúde,Consulta médica,665.69,Cartão de crédito
+1266,2024-03-08,Alimentação,Restaurante,49.05,Dinheiro
+1267,2024-03-08,Alimentação,Feira,67.27,Cartão de débito
+1268,2024-03-09,Lazer,Bar,237.8,Dinheiro
+1269,2024-03-09,Lazer,Bar,40.14,Boleto
+1270,2024-03-09,Alimentação,Restaurante,36.9,Pix
+1271,2024-03-09,Moradia,Energia elétrica,602.25,Cartão de débito
+1272,2024-03-09,Transporte,Pedágio,68.88,Cartão de débito
+1273,2024-03-10,Alimentação,Supermercado,61.65,Pix
+1274,2024-03-11,Alimentação,Restaurante,61.09,Pix
+1275,2024-03-11,Educação,Plataforma online,453.5,Boleto
+1276,2024-03-11,Lazer,Cinema,254.13,Cartão de crédito
+1277,2024-03-11,Lazer,Streaming,243.65,Boleto
+1278,2024-03-12,Outros,Imprevisto,65.65,Cartão de débito
+1279,2024-03-13,Educação,Material escolar,328.0,Cartão de débito
+1280,2024-03-13,Lazer,Show,218.61,Pix
+1281,2024-03-13,Alimentação,Delivery,178.11,Pix
+1282,2024-03-13,Educação,Mensalidade curso,898.2,Pix
+1283,2024-03-13,Serviços,Manutenção doméstica,384.25,Boleto
+1284,2024-03-14,Alimentação,Restaurante,156.16,Pix
+1285,2024-03-14,Alimentação,Feira,29.27,Pix
+1286,2024-03-14,Transporte,Aplicativo de transporte,101.73,Boleto
+1287,2024-03-15,Alimentação,Padaria,87.33,Dinheiro
+1288,2024-03-15,Educação,Mensalidade curso,680.37,Cartão de débito
+1289,2024-03-15,Transporte,Ônibus,29.47,Cartão de crédito
+1290,2024-03-16,Alimentação,Supermercado,78.19,Pix
+1291,2024-03-16,Alimentação,Padaria,154.03,Dinheiro
+1292,2024-03-16,Alimentação,Restaurante,35.21,Boleto
+1293,2024-03-17,Moradia,Água,1256.05,Cartão de crédito
+1294,2024-03-17,Alimentação,Feira,146.88,Pix
+1295,2024-03-17,Alimentação,Delivery,91.8,Cartão de débito
+1296,2024-03-17,Alimentação,Delivery,161.12,Dinheiro
+1297,2024-03-18,Transporte,Aplicativo de transporte,74.01,Pix
+1298,2024-03-18,Vestuário,Roupas,188.68,Boleto
+1299,2024-03-19,Transporte,Combustível,73.16,Boleto
+1300,2024-03-19,Alimentação,Lanchonete,82.39,Pix
+1301,2024-03-20,Transporte,Estacionamento,142.62,Boleto
+1302,2024-03-20,Moradia,Condomínio,1919.8,Boleto
+1303,2024-03-21,Alimentação,Delivery,121.96,Pix
+1304,2024-03-21,Transporte,Combustível,176.5,Cartão de crédito
+1305,2024-03-21,Lazer,Jogos,298.13,Dinheiro
+1306,2024-03-22,Vestuário,Calçados,261.07,Cartão de débito
+1307,2024-03-22,Moradia,Aluguel,1622.87,Boleto
+1308,2024-03-22,Alimentação,Feira,205.22,Cartão de débito
+1309,2024-03-22,Outros,Diversos,195.1,Boleto
+1310,2024-03-22,Alimentação,Padaria,100.9,Cartão de crédito
+1311,2024-03-22,Moradia,Gás,1871.59,Dinheiro
+1312,2024-03-23,Vestuário,Acessórios,124.89,Dinheiro
+1313,2024-03-23,Serviços,Lavanderia,376.79,Pix
+1314,2024-03-23,Alimentação,Restaurante,172.86,Cartão de crédito
+1315,2024-03-24,Serviços,Assinatura de app,236.71,Cartão de débito
+1316,2024-03-24,Alimentação,Feira,23.17,Pix
+1317,2024-03-24,Lazer,Viagem,310.58,Dinheiro
+1318,2024-03-24,Lazer,Streaming,86.01,Cartão de crédito
+1319,2024-03-24,Transporte,Pedágio,43.45,Pix
+1320,2024-03-24,Vestuário,Roupas,405.43,Cartão de crédito
+1321,2024-03-24,Lazer,Viagem,132.17,Dinheiro
+1322,2024-03-25,Lazer,Viagem,21.51,Pix
+1323,2024-03-26,Alimentação,Supermercado,201.64,Cartão de débito
+1324,2024-03-26,Moradia,Aluguel,1909.35,Dinheiro
+1325,2024-03-27,Educação,Livros,288.12,Pix
+1326,2024-03-27,Alimentação,Restaurante,215.78,Boleto
+1327,2024-03-28,Alimentação,Delivery,183.91,Dinheiro
+1328,2024-03-28,Transporte,Estacionamento,24.66,Cartão de crédito
+1329,2024-03-28,Alimentação,Feira,140.2,Cartão de crédito
+1330,2024-03-28,Educação,Mensalidade curso,167.81,Boleto
+1331,2024-03-29,Transporte,Estacionamento,145.99,Dinheiro
+1332,2024-03-30,Alimentação,Supermercado,76.39,Cartão de crédito
+1333,2024-03-30,Educação,Plataforma online,724.68,Cartão de débito
+1334,2024-03-30,Lazer,Show,115.25,Pix
+1335,2024-03-30,Vestuário,Calçados,301.15,Cartão de crédito
+1336,2024-03-31,Alimentação,Padaria,209.44,Cartão de débito
+1337,2024-03-31,Saúde,Farmácia,214.9,Dinheiro
+1338,2024-04-01,Serviços,Lavanderia,376.95,Dinheiro
+1339,2024-04-01,Lazer,Cinema,190.45,Cartão de débito
+1340,2024-04-01,Transporte,Aplicativo de transporte,36.62,Cartão de débito
+1341,2024-04-01,Alimentação,Delivery,117.03,Cartão de crédito
+1342,2024-04-01,Educação,Plataforma online,847.7,Pix
+1343,2024-04-01,Alimentação,Feira,153.75,Boleto
+1344,2024-04-01,Transporte,Ônibus,132.1,Cartão de débito
+1345,2024-04-02,Saúde,Dentista,323.47,Cartão de crédito
+1346,2024-04-02,Lazer,Viagem,254.59,Cartão de crédito
+1347,2024-04-03,Vestuário,Roupas,66.29,Dinheiro
+1348,2024-04-03,Alimentação,Lanchonete,117.18,Cartão de crédito
+1349,2024-04-03,Vestuário,Calçados,162.22,Boleto
+1350,2024-04-04,Saúde,Farmácia,692.78,Cartão de débito
+1351,2024-04-04,Alimentação,Restaurante,154.95,Cartão de débito
+1352,2024-04-04,Moradia,Condomínio,1438.05,Boleto
+1353,2024-04-05,Moradia,Condomínio,1176.8,Boleto
+1354,2024-04-05,Moradia,Água,558.57,Boleto
+1355,2024-04-05,Transporte,Estacionamento,70.86,Cartão de crédito
+1356,2024-04-05,Transporte,Pedágio,158.22,Cartão de crédito
+1357,2024-04-06,Alimentação,Padaria,41.88,Cartão de débito
+1358,2024-04-07,Transporte,Aplicativo de transporte,138.21,Boleto
+1359,2024-04-08,Alimentação,Restaurante,170.66,Cartão de crédito
+1360,2024-04-09,Moradia,Energia elétrica,1626.78,Dinheiro
+1361,2024-04-09,Alimentação,Feira,27.28,Dinheiro
+1362,2024-04-09,Alimentação,Feira,145.8,Cartão de débito
+1363,2024-04-09,Saúde,Consulta médica,612.92,Dinheiro
+1364,2024-04-09,Educação,Mensalidade curso,285.08,Pix
+1365,2024-04-10,Outros,Imprevisto,140.39,Cartão de débito
+1366,2024-04-10,Lazer,Viagem,199.75,Boleto
+1367,2024-04-10,Lazer,Show,152.23,Pix
+1368,2024-04-11,Moradia,Condomínio,1415.1,Dinheiro
+1369,2024-04-11,Saúde,Dentista,70.74,Cartão de débito
+1370,2024-04-11,Moradia,Internet,1662.57,Pix
+1371,2024-04-12,Vestuário,Calçados,107.69,Dinheiro
+1372,2024-04-12,Alimentação,Restaurante,198.09,Pix
+1373,2024-04-13,Transporte,Combustível,136.58,Cartão de crédito
+1374,2024-04-13,Vestuário,Calçados,104.33,Cartão de crédito
+1375,2024-04-13,Transporte,Ônibus,28.09,Cartão de débito
+1376,2024-04-13,Educação,Plataforma online,565.21,Dinheiro
+1377,2024-04-14,Educação,Mensalidade curso,552.32,Cartão de crédito
+1378,2024-04-14,Educação,Mensalidade curso,674.53,Boleto
+1379,2024-04-14,Outros,Presente,30.38,Boleto
+1380,2024-04-14,Serviços,Lavanderia,25.93,Cartão de crédito
+1381,2024-04-14,Outros,Doação,218.85,Boleto
+1382,2024-04-14,Serviços,Manutenção doméstica,94.91,Pix
+1383,2024-04-14,Transporte,Ônibus,120.14,Boleto
+1384,2024-04-16,Alimentação,Restaurante,177.97,Cartão de débito
+1385,2024-04-16,Transporte,Pedágio,6.47,Cartão de débito
+1386,2024-04-16,Alimentação,Feira,189.93,Cartão de débito
+1387,2024-04-17,Educação,Mensalidade curso,458.21,Dinheiro
+1388,2024-04-17,Educação,Mensalidade curso,106.56,Pix
+1389,2024-04-17,Moradia,Internet,956.5,Cartão de débito
+1390,2024-04-18,Transporte,Pedágio,178.17,Boleto
+1391,2024-04-18,Moradia,Energia elétrica,477.67,Boleto
+1392,2024-04-18,Transporte,Pedágio,132.75,Cartão de débito
+1393,2024-04-18,Alimentação,Restaurante,158.76,Cartão de crédito
+1394,2024-04-18,Transporte,Combustível,38.77,Cartão de débito
+1395,2024-04-19,Serviços,Lavanderia,289.95,Boleto
+1396,2024-04-19,Lazer,Cinema,24.68,Cartão de débito
+1397,2024-04-19,Transporte,Manutenção do veículo,54.56,Boleto
+1398,2024-04-19,Serviços,Manutenção doméstica,332.15,Dinheiro
+1399,2024-04-20,Alimentação,Supermercado,66.09,Dinheiro
+1400,2024-04-20,Alimentação,Supermercado,181.7,Pix
+1401,2024-04-20,Educação,Material escolar,557.32,Pix
+1402,2024-04-20,Saúde,Farmácia,79.0,Dinheiro
+1403,2024-04-20,Moradia,Gás,1819.29,Dinheiro
+1404,2024-04-21,Moradia,Internet,1512.33,Dinheiro
+1405,2024-04-21,Serviços,Manutenção doméstica,391.29,Pix
+1406,2024-04-21,Educação,Livros,372.67,Boleto
+1407,2024-04-21,Alimentação,Supermercado,51.96,Dinheiro
+1408,2024-04-22,Moradia,Aluguel,1176.58,Cartão de débito
+1409,2024-04-23,Educação,Plataforma online,108.9,Pix
+1410,2024-04-23,Alimentação,Supermercado,106.49,Dinheiro
+1411,2024-04-24,Saúde,Farmácia,826.14,Cartão de crédito
+1412,2024-04-24,Outros,Doação,43.78,Dinheiro
+1413,2024-04-24,Moradia,Água,2003.28,Pix
+1414,2024-04-25,Lazer,Streaming,112.67,Pix
+1415,2024-04-25,Transporte,Ônibus,65.01,Cartão de crédito
+1416,2024-04-26,Transporte,Manutenção do veículo,44.16,Pix
+1417,2024-04-26,Lazer,Viagem,168.79,Boleto
+1418,2024-04-26,Transporte,Estacionamento,128.54,Cartão de crédito
+1419,2024-04-26,Moradia,Água,714.48,Cartão de débito
+1420,2024-04-27,Lazer,Streaming,259.61,Cartão de débito
+1421,2024-04-27,Alimentação,Padaria,57.85,Cartão de débito
+1422,2024-04-27,Vestuário,Roupas,358.21,Cartão de crédito
+1423,2024-04-28,Saúde,Consulta médica,657.64,Cartão de débito
+1424,2024-04-28,Educação,Mensalidade curso,644.0,Boleto
+1425,2024-04-28,Vestuário,Acessórios,359.37,Cartão de débito
+1426,2024-04-29,Vestuário,Calçados,150.26,Dinheiro
+1427,2024-04-29,Vestuário,Calçados,98.88,Cartão de débito
+1428,2024-04-29,Lazer,Show,199.33,Pix
+1429,2024-04-30,Serviços,Salão de beleza,330.74,Cartão de débito
+1430,2024-04-30,Vestuário,Calçados,281.8,Cartão de débito
+1431,2024-04-30,Serviços,Assinatura de app,485.41,Boleto
+1432,2024-05-01,Transporte,Pedágio,166.73,Pix
+1433,2024-05-01,Vestuário,Roupas,355.14,Cartão de débito
+1434,2024-05-01,Alimentação,Feira,131.75,Pix
+1435,2024-05-02,Transporte,Pedágio,74.09,Cartão de crédito
+1436,2024-05-02,Transporte,Manutenção do veículo,43.25,Pix
+1437,2024-05-02,Lazer,Bar,244.49,Cartão de débito
+1438,2024-05-03,Saúde,Consulta médica,728.49,Cartão de crédito
+1439,2024-05-03,Alimentação,Padaria,136.7,Dinheiro
+1440,2024-05-03,Transporte,Ônibus,139.03,Boleto
+1441,2024-05-03,Vestuário,Roupas,369.49,Cartão de débito
+1442,2024-05-04,Outros,Diversos,17.82,Dinheiro
+1443,2024-05-04,Serviços,Assinatura de app,84.08,Boleto
+1444,2024-05-04,Alimentação,Delivery,181.69,Cartão de crédito
+1445,2024-05-05,Transporte,Ônibus,173.8,Pix
+1446,2024-05-05,Alimentação,Feira,48.06,Cartão de crédito
+1447,2024-05-05,Alimentação,Restaurante,52.21,Cartão de débito
+1448,2024-05-06,Moradia,Energia elétrica,840.53,Dinheiro
+1449,2024-05-06,Transporte,Estacionamento,90.04,Cartão de débito
+1450,2024-05-07,Educação,Plataforma online,631.26,Boleto
+1451,2024-05-07,Saúde,Plano de saúde,491.76,Dinheiro
+1452,2024-05-07,Alimentação,Feira,214.37,Dinheiro
+1453,2024-05-07,Alimentação,Feira,43.01,Cartão de débito
+1454,2024-05-08,Outros,Diversos,80.83,Cartão de crédito
+1455,2024-05-08,Outros,Diversos,29.22,Dinheiro
+1456,2024-05-09,Serviços,Lavanderia,74.21,Dinheiro
+1457,2024-05-10,Moradia,Condomínio,801.21,Pix
+1458,2024-05-10,Lazer,Cinema,27.97,Cartão de crédito
+1459,2024-05-11,Educação,Mensalidade curso,289.88,Pix
+1460,2024-05-11,Alimentação,Supermercado,123.11,Pix
+1461,2024-05-11,Moradia,Gás,318.48,Cartão de débito
+1462,2024-05-11,Moradia,Internet,1902.77,Cartão de débito
+1463,2024-05-12,Vestuário,Acessórios,411.41,Cartão de débito
+1464,2024-05-12,Moradia,Aluguel,1913.06,Cartão de débito
+1465,2024-05-12,Saúde,Dentista,599.91,Dinheiro
+1466,2024-05-12,Saúde,Farmácia,384.81,Cartão de débito
+1467,2024-05-13,Educação,Livros,671.02,Boleto
+1468,2024-05-13,Alimentação,Restaurante,199.15,Pix
+1469,2024-05-13,Alimentação,Lanchonete,137.2,Boleto
+1470,2024-05-13,Alimentação,Delivery,144.72,Cartão de débito
+1471,2024-05-14,Transporte,Pedágio,5.43,Cartão de crédito
+1472,2024-05-14,Transporte,Pedágio,176.79,Pix
+1473,2024-05-14,Alimentação,Feira,16.21,Pix
+1474,2024-05-14,Alimentação,Lanchonete,172.74,Cartão de débito
+1475,2024-05-14,Alimentação,Feira,191.1,Dinheiro
+1476,2024-05-15,Saúde,Exames,223.27,Dinheiro
+1477,2024-05-15,Alimentação,Restaurante,130.91,Pix
+1478,2024-05-15,Serviços,Lavanderia,147.2,Cartão de débito
+1479,2024-05-15,Moradia,Gás,1760.61,Pix
+1480,2024-05-16,Educação,Material escolar,894.54,Cartão de crédito
+1481,2024-05-16,Alimentação,Delivery,144.64,Dinheiro
+1482,2024-05-16,Transporte,Estacionamento,37.97,Cartão de crédito
+1483,2024-05-16,Lazer,Streaming,279.37,Dinheiro
+1484,2024-05-16,Transporte,Combustível,177.82,Dinheiro
+1485,2024-05-17,Transporte,Estacionamento,101.78,Dinheiro
+1486,2024-05-17,Alimentação,Feira,88.97,Cartão de crédito
+1487,2024-05-17,Vestuário,Roupas,244.56,Pix
+1488,2024-05-18,Alimentação,Supermercado,18.98,Boleto
+1489,2024-05-18,Serviços,Salão de beleza,329.5,Cartão de crédito
+1490,2024-05-18,Moradia,Água,742.41,Dinheiro
+1491,2024-05-18,Lazer,Jogos,61.14,Dinheiro
+1492,2024-05-19,Alimentação,Padaria,63.13,Cartão de débito
+1493,2024-05-19,Serviços,Assinatura de app,359.34,Cartão de crédito
+1494,2024-05-20,Alimentação,Lanchonete,128.57,Dinheiro
+1495,2024-05-20,Alimentação,Feira,101.15,Pix
+1496,2024-05-20,Saúde,Farmácia,407.35,Cartão de crédito
+1497,2024-05-20,Alimentação,Padaria,73.14,Pix
+1498,2024-05-20,Transporte,Combustível,41.65,Cartão de crédito
+1499,2024-05-21,Moradia,Gás,392.85,Cartão de crédito
+1500,2024-05-21,Educação,Livros,95.95,Cartão de débito
+1501,2024-05-21,Moradia,Condomínio,994.37,Boleto
+1502,2024-05-21,Alimentação,Delivery,88.09,Boleto
+1503,2024-05-21,Educação,Plataforma online,628.02,Dinheiro
+1504,2024-05-21,Transporte,Combustível,174.14,Pix
+1505,2024-05-21,Lazer,Cinema,280.43,Cartão de débito
+1506,2024-05-22,Alimentação,Lanchonete,168.55,Cartão de crédito
+1507,2024-05-22,Transporte,Combustível,102.74,Dinheiro
+1508,2024-05-22,Saúde,Farmácia,558.96,Pix
+1509,2024-05-23,Outros,Diversos,135.52,Cartão de débito
+1510,2024-05-23,Lazer,Bar,205.27,Cartão de crédito
+1511,2024-05-24,Lazer,Viagem,20.42,Dinheiro
+1512,2024-05-24,Vestuário,Acessórios,147.53,Boleto
+1513,2024-05-25,Educação,Livros,731.59,Pix
+1514,2024-05-25,Serviços,Salão de beleza,258.74,Dinheiro
+1515,2024-05-25,Saúde,Exames,29.74,Cartão de débito
+1516,2024-05-25,Lazer,Jogos,45.28,Pix
+1517,2024-05-25,Educação,Plataforma online,946.83,Dinheiro
+1518,2024-05-26,Saúde,Exames,713.26,Cartão de crédito
+1519,2024-05-26,Vestuário,Calçados,355.38,Cartão de débito
+1520,2024-05-27,Lazer,Cinema,169.84,Pix
+1521,2024-05-27,Lazer,Cinema,120.49,Dinheiro
+1522,2024-05-28,Transporte,Ônibus,15.85,Dinheiro
+1523,2024-05-28,Saúde,Dentista,626.19,Pix
+1524,2024-05-29,Serviços,Salão de beleza,46.6,Boleto
+1525,2024-05-29,Vestuário,Roupas,292.87,Cartão de crédito
+1526,2024-05-29,Saúde,Dentista,451.37,Boleto
+1527,2024-05-29,Alimentação,Padaria,63.97,Cartão de débito
+1528,2024-05-29,Lazer,Jogos,61.73,Dinheiro
+1529,2024-05-29,Vestuário,Acessórios,212.82,Pix
+1530,2024-05-29,Vestuário,Calçados,78.65,Dinheiro
+1531,2024-05-30,Outros,Diversos,66.2,Boleto
+1532,2024-05-30,Saúde,Farmácia,550.42,Pix
+1533,2024-05-30,Lazer,Jogos,43.42,Cartão de débito
+1534,2024-05-30,Alimentação,Feira,28.05,Cartão de crédito
+1535,2024-05-30,Lazer,Show,175.15,Cartão de débito
+1536,2024-05-30,Alimentação,Feira,96.26,Dinheiro
+1537,2024-05-31,Educação,Plataforma online,75.62,Dinheiro
+1538,2024-05-31,Moradia,Aluguel,488.76,Pix
+1539,2024-05-31,Alimentação,Padaria,117.26,Cartão de crédito
+1540,2024-05-31,Vestuário,Acessórios,198.84,Pix
+1541,2024-05-31,Educação,Plataforma online,733.13,Cartão de débito
+1542,2024-05-31,Moradia,Aluguel,323.97,Pix
+1543,2024-06-01,Educação,Plataforma online,550.73,Cartão de débito
+1544,2024-06-01,Moradia,Aluguel,1999.31,Cartão de crédito
+1545,2024-06-01,Moradia,Internet,590.34,Pix
+1546,2024-06-01,Alimentação,Lanchonete,27.29,Pix
+1547,2024-06-02,Saúde,Farmácia,657.8,Pix
+1548,2024-06-03,Transporte,Pedágio,34.75,Boleto
+1549,2024-06-03,Vestuário,Roupas,248.19,Dinheiro
+1550,2024-06-03,Alimentação,Lanchonete,163.62,Cartão de débito
+1551,2024-06-04,Alimentação,Padaria,53.09,Cartão de crédito
+1552,2024-06-04,Lazer,Cinema,56.64,Pix
+1553,2024-06-04,Transporte,Aplicativo de transporte,177.4,Cartão de débito
+1554,2024-06-06,Moradia,Condomínio,197.95,Boleto
+1555,2024-06-07,Alimentação,Restaurante,199.4,Pix
+1556,2024-06-07,Outros,Diversos,228.03,Dinheiro
+1557,2024-06-07,Transporte,Combustível,139.4,Cartão de crédito
+1558,2024-06-08,Moradia,Internet,1119.79,Boleto
+1559,2024-06-08,Educação,Plataforma online,427.75,Dinheiro
+1560,2024-06-09,Saúde,Consulta médica,397.9,Boleto
+1561,2024-06-09,Alimentação,Restaurante,104.68,Dinheiro
+1562,2024-06-09,Alimentação,Delivery,174.96,Cartão de crédito
+1563,2024-06-09,Outros,Diversos,220.27,Dinheiro
+1564,2024-06-09,Transporte,Aplicativo de transporte,86.12,Cartão de débito
+1565,2024-06-10,Alimentação,Lanchonete,23.33,Boleto
+1566,2024-06-10,Alimentação,Padaria,34.67,Boleto
+1567,2024-06-10,Alimentação,Padaria,47.64,Boleto
+1568,2024-06-11,Transporte,Combustível,75.15,Cartão de débito
+1569,2024-06-11,Lazer,Show,226.88,Dinheiro
+1570,2024-06-11,Educação,Livros,579.99,Dinheiro
+1571,2024-06-11,Lazer,Bar,221.42,Cartão de crédito
+1572,2024-06-12,Serviços,Assinatura de app,414.09,Cartão de crédito
+1573,2024-06-12,Vestuário,Roupas,171.09,Dinheiro
+1574,2024-06-12,Saúde,Exames,480.91,Dinheiro
+1575,2024-06-13,Vestuário,Acessórios,176.23,Dinheiro
+1576,2024-06-13,Lazer,Jogos,292.54,Pix
+1577,2024-06-13,Alimentação,Supermercado,197.43,Cartão de débito
+1578,2024-06-13,Transporte,Combustível,38.68,Cartão de crédito
+1579,2024-06-14,Educação,Plataforma online,211.67,Pix
+1580,2024-06-14,Alimentação,Supermercado,159.24,Boleto
+1581,2024-06-14,Saúde,Farmácia,584.6,Cartão de débito
+1582,2024-06-15,Saúde,Consulta médica,592.32,Dinheiro
+1583,2024-06-15,Saúde,Farmácia,602.98,Dinheiro
+1584,2024-06-15,Saúde,Farmácia,836.66,Boleto
+1585,2024-06-16,Saúde,Consulta médica,303.71,Pix
+1586,2024-06-16,Educação,Mensalidade curso,577.61,Dinheiro
+1587,2024-06-17,Alimentação,Restaurante,93.05,Pix
+1588,2024-06-17,Educação,Plataforma online,229.69,Pix
+1589,2024-06-17,Alimentação,Lanchonete,113.65,Cartão de débito
+1590,2024-06-17,Outros,Doação,156.99,Dinheiro
+1591,2024-06-17,Outros,Imprevisto,15.45,Boleto
+1592,2024-06-17,Transporte,Combustível,116.24,Cartão de crédito
+1593,2024-06-17,Lazer,Streaming,316.41,Dinheiro
+1594,2024-06-18,Transporte,Aplicativo de transporte,23.61,Dinheiro
+1595,2024-06-18,Moradia,Internet,2190.81,Dinheiro
+1596,2024-06-18,Educação,Material escolar,568.18,Dinheiro
+1597,2024-06-19,Educação,Livros,79.84,Cartão de débito
+1598,2024-06-19,Lazer,Jogos,119.32,Pix
+1599,2024-06-19,Moradia,Internet,1285.3,Cartão de crédito
+1600,2024-06-19,Lazer,Jogos,98.67,Cartão de crédito
+1601,2024-06-19,Serviços,Assinatura de app,498.46,Cartão de crédito
+1602,2024-06-19,Outros,Doação,90.6,Dinheiro
+1603,2024-06-20,Alimentação,Delivery,193.46,Pix
+1604,2024-06-20,Saúde,Plano de saúde,155.97,Pix
+1605,2024-06-20,Alimentação,Delivery,188.57,Cartão de crédito
+1606,2024-06-20,Educação,Material escolar,525.74,Dinheiro
+1607,2024-06-20,Lazer,Streaming,248.55,Boleto
+1608,2024-06-20,Alimentação,Restaurante,125.69,Pix
+1609,2024-06-22,Alimentação,Feira,28.03,Pix
+1610,2024-06-22,Saúde,Dentista,673.79,Boleto
+1611,2024-06-22,Alimentação,Supermercado,52.69,Boleto
+1612,2024-06-22,Lazer,Viagem,233.27,Dinheiro
+1613,2024-06-23,Educação,Plataforma online,81.33,Boleto
+1614,2024-06-23,Vestuário,Acessórios,213.36,Boleto
+1615,2024-06-24,Serviços,Assinatura de app,223.11,Boleto
+1616,2024-06-24,Moradia,Condomínio,1725.49,Pix
+1617,2024-06-24,Serviços,Manutenção doméstica,25.79,Pix
+1618,2024-06-24,Lazer,Viagem,106.35,Pix
+1619,2024-06-25,Alimentação,Lanchonete,54.27,Cartão de débito
+1620,2024-06-25,Educação,Material escolar,256.81,Cartão de débito
+1621,2024-06-26,Transporte,Ônibus,60.02,Cartão de débito
+1622,2024-06-26,Alimentação,Restaurante,64.79,Pix
+1623,2024-06-26,Lazer,Show,178.4,Cartão de crédito
+1624,2024-06-26,Outros,Doação,158.54,Dinheiro
+1625,2024-06-27,Saúde,Consulta médica,249.84,Pix
+1626,2024-06-27,Alimentação,Lanchonete,101.07,Cartão de débito
+1627,2024-06-27,Saúde,Plano de saúde,772.39,Pix
+1628,2024-06-27,Serviços,Lavanderia,25.69,Dinheiro
+1629,2024-06-28,Educação,Plataforma online,910.13,Boleto
+1630,2024-06-29,Transporte,Pedágio,67.0,Pix
+1631,2024-06-29,Transporte,Manutenção do veículo,70.49,Dinheiro
+1632,2024-06-29,Saúde,Farmácia,214.84,Boleto
+1633,2024-06-30,Transporte,Estacionamento,173.98,Cartão de débito
+1634,2024-06-30,Transporte,Ônibus,171.02,Boleto
+1635,2024-07-01,Serviços,Lavanderia,431.67,Cartão de crédito
+1636,2024-07-02,Lazer,Show,73.1,Dinheiro
+1637,2024-07-02,Lazer,Bar,300.59,Cartão de débito
+1638,2024-07-02,Lazer,Jogos,64.01,Dinheiro
+1639,2024-07-02,Vestuário,Calçados,313.26,Pix
+1640,2024-07-03,Alimentação,Delivery,90.56,Pix
+1641,2024-07-03,Alimentação,Padaria,82.26,Dinheiro
+1642,2024-07-03,Vestuário,Roupas,236.73,Boleto
+1643,2024-07-03,Vestuário,Calçados,72.39,Dinheiro
+1644,2024-07-04,Alimentação,Lanchonete,69.37,Cartão de crédito
+1645,2024-07-04,Alimentação,Restaurante,163.7,Boleto
+1646,2024-07-04,Alimentação,Lanchonete,163.96,Dinheiro
+1647,2024-07-05,Transporte,Manutenção do veículo,107.3,Dinheiro
+1648,2024-07-06,Outros,Presente,231.38,Boleto
+1649,2024-07-06,Transporte,Ônibus,20.67,Pix
+1650,2024-07-06,Saúde,Plano de saúde,224.11,Dinheiro
+1651,2024-07-07,Transporte,Manutenção do veículo,21.24,Pix
+1652,2024-07-08,Outros,Presente,234.3,Dinheiro
+1653,2024-07-08,Transporte,Combustível,151.93,Pix
+1654,2024-07-09,Alimentação,Supermercado,79.29,Boleto
+1655,2024-07-09,Vestuário,Acessórios,46.23,Dinheiro
+1656,2024-07-09,Transporte,Manutenção do veículo,155.44,Cartão de crédito
+1657,2024-07-09,Lazer,Jogos,118.21,Cartão de crédito
+1658,2024-07-10,Transporte,Aplicativo de transporte,168.25,Cartão de débito
+1659,2024-07-10,Saúde,Plano de saúde,52.14,Cartão de crédito
+1660,2024-07-10,Serviços,Manutenção doméstica,24.1,Pix
+1661,2024-07-11,Alimentação,Delivery,215.31,Cartão de crédito
+1662,2024-07-12,Alimentação,Padaria,90.69,Cartão de débito
+1663,2024-07-12,Transporte,Ônibus,22.95,Pix
+1664,2024-07-13,Vestuário,Calçados,380.15,Cartão de débito
+1665,2024-07-13,Moradia,Internet,2023.83,Cartão de crédito
+1666,2024-07-13,Alimentação,Delivery,102.16,Cartão de débito
+1667,2024-07-13,Lazer,Cinema,247.63,Cartão de crédito
+1668,2024-07-14,Outros,Diversos,244.73,Boleto
+1669,2024-07-14,Alimentação,Supermercado,16.74,Cartão de crédito
+1670,2024-07-15,Alimentação,Padaria,173.04,Cartão de crédito
+1671,2024-07-15,Alimentação,Supermercado,113.89,Pix
+1672,2024-07-15,Educação,Plataforma online,689.36,Cartão de débito
+1673,2024-07-15,Moradia,Água,975.57,Pix
+1674,2024-07-16,Alimentação,Delivery,74.05,Dinheiro
+1675,2024-07-17,Alimentação,Padaria,148.69,Cartão de crédito
+1676,2024-07-17,Alimentação,Lanchonete,33.05,Pix
+1677,2024-07-17,Transporte,Aplicativo de transporte,85.86,Cartão de crédito
+1678,2024-07-17,Moradia,Água,265.97,Cartão de débito
+1679,2024-07-18,Alimentação,Supermercado,196.27,Pix
+1680,2024-07-18,Alimentação,Supermercado,147.34,Pix
+1681,2024-07-19,Vestuário,Calçados,218.16,Boleto
+1682,2024-07-19,Alimentação,Restaurante,88.61,Boleto
+1683,2024-07-20,Saúde,Dentista,376.04,Pix
+1684,2024-07-20,Alimentação,Padaria,94.36,Dinheiro
+1685,2024-07-20,Outros,Imprevisto,211.32,Boleto
+1686,2024-07-20,Serviços,Salão de beleza,87.86,Cartão de crédito
+1687,2024-07-20,Alimentação,Supermercado,90.59,Boleto
+1688,2024-07-21,Transporte,Aplicativo de transporte,39.3,Pix
+1689,2024-07-21,Serviços,Salão de beleza,408.01,Dinheiro
+1690,2024-07-21,Lazer,Bar,93.71,Boleto
+1691,2024-07-22,Moradia,Internet,2175.64,Pix
+1692,2024-07-22,Moradia,Aluguel,746.31,Cartão de débito
+1693,2024-07-23,Outros,Imprevisto,56.24,Cartão de crédito
+1694,2024-07-24,Transporte,Combustível,143.37,Pix
+1695,2024-07-24,Alimentação,Restaurante,83.24,Dinheiro
+1696,2024-07-25,Moradia,Aluguel,363.22,Cartão de crédito
+1697,2024-07-26,Vestuário,Roupas,344.42,Dinheiro
+1698,2024-07-26,Lazer,Jogos,70.84,Pix
+1699,2024-07-26,Transporte,Aplicativo de transporte,126.98,Boleto
+1700,2024-07-26,Saúde,Plano de saúde,350.7,Boleto
+1701,2024-07-27,Vestuário,Acessórios,112.81,Cartão de débito
+1702,2024-07-27,Outros,Imprevisto,224.78,Cartão de crédito
+1703,2024-07-28,Vestuário,Roupas,412.64,Cartão de crédito
+1704,2024-07-28,Moradia,Gás,609.78,Dinheiro
+1705,2024-07-28,Serviços,Assinatura de app,30.31,Boleto
+1706,2024-07-28,Educação,Mensalidade curso,625.96,Cartão de débito
+1707,2024-07-29,Transporte,Ônibus,26.39,Dinheiro
+1708,2024-07-29,Alimentação,Delivery,173.87,Dinheiro
+1709,2024-07-29,Moradia,Gás,1289.75,Dinheiro
+1710,2024-07-29,Educação,Plataforma online,608.45,Dinheiro
+1711,2024-07-30,Saúde,Dentista,334.43,Pix
+1712,2024-07-30,Educação,Plataforma online,122.1,Pix
+1713,2024-07-30,Alimentação,Delivery,33.39,Cartão de crédito
+1714,2024-07-31,Alimentação,Restaurante,219.44,Boleto
+1715,2024-07-31,Vestuário,Roupas,318.43,Dinheiro
+1716,2024-07-31,Educação,Material escolar,839.44,Cartão de crédito
+1717,2024-07-31,Transporte,Manutenção do veículo,115.13,Cartão de débito
+1718,2024-08-01,Saúde,Consulta médica,796.13,Pix
+1719,2024-08-02,Vestuário,Calçados,165.41,Pix
+1720,2024-08-02,Lazer,Bar,248.61,Boleto
+1721,2024-08-02,Saúde,Consulta médica,345.41,Cartão de crédito
+1722,2024-08-02,Serviços,Assinatura de app,434.08,Cartão de débito
+1723,2024-08-03,Serviços,Lavanderia,171.05,Dinheiro
+1724,2024-08-03,Transporte,Estacionamento,60.36,Cartão de débito
+1725,2024-08-03,Saúde,Plano de saúde,843.07,Pix
+1726,2024-08-03,Vestuário,Roupas,102.4,Cartão de débito
+1727,2024-08-03,Educação,Mensalidade curso,492.75,Cartão de débito
+1728,2024-08-04,Moradia,Gás,257.89,Boleto
+1729,2024-08-05,Serviços,Lavanderia,230.79,Pix
+1730,2024-08-05,Serviços,Manutenção doméstica,372.45,Dinheiro
+1731,2024-08-05,Saúde,Consulta médica,165.64,Boleto
+1732,2024-08-05,Alimentação,Padaria,211.6,Pix
+1733,2024-08-06,Transporte,Manutenção do veículo,54.19,Cartão de débito
+1734,2024-08-06,Vestuário,Calçados,295.03,Pix
+1735,2024-08-06,Saúde,Exames,490.08,Cartão de crédito
+1736,2024-08-06,Moradia,Água,234.71,Dinheiro
+1737,2024-08-07,Saúde,Exames,225.47,Dinheiro
+1738,2024-08-07,Educação,Plataforma online,393.62,Boleto
+1739,2024-08-07,Serviços,Salão de beleza,94.26,Dinheiro
+1740,2024-08-07,Lazer,Viagem,22.45,Dinheiro
+1741,2024-08-07,Moradia,Água,1293.78,Cartão de crédito
+1742,2024-08-08,Moradia,Água,1894.75,Cartão de crédito
+1743,2024-08-08,Moradia,Aluguel,2002.99,Cartão de débito
+1744,2024-08-08,Moradia,Condomínio,1271.98,Boleto
+1745,2024-08-08,Transporte,Combustível,96.49,Pix
+1746,2024-08-08,Vestuário,Roupas,309.5,Cartão de débito
+1747,2024-08-09,Saúde,Farmácia,468.15,Pix
+1748,2024-08-09,Alimentação,Delivery,218.02,Boleto
+1749,2024-08-09,Transporte,Estacionamento,154.33,Boleto
+1750,2024-08-09,Outros,Presente,125.08,Boleto
+1751,2024-08-10,Transporte,Manutenção do veículo,80.09,Boleto
+1752,2024-08-10,Moradia,Água,1615.79,Cartão de crédito
+1753,2024-08-10,Serviços,Salão de beleza,220.53,Cartão de crédito
+1754,2024-08-11,Alimentação,Delivery,214.34,Cartão de crédito
+1755,2024-08-11,Alimentação,Feira,160.06,Dinheiro
+1756,2024-08-11,Alimentação,Delivery,144.48,Boleto
+1757,2024-08-11,Alimentação,Padaria,48.05,Pix
+1758,2024-08-12,Moradia,Energia elétrica,92.5,Pix
+1759,2024-08-12,Moradia,Gás,937.38,Dinheiro
+1760,2024-08-12,Alimentação,Delivery,33.68,Dinheiro
+1761,2024-08-13,Lazer,Jogos,83.32,Pix
+1762,2024-08-14,Saúde,Exames,152.65,Cartão de débito
+1763,2024-08-14,Moradia,Energia elétrica,516.0,Pix
+1764,2024-08-14,Outros,Presente,215.2,Dinheiro
+1765,2024-08-14,Moradia,Água,2071.51,Cartão de débito
+1766,2024-08-15,Alimentação,Delivery,78.95,Dinheiro
+1767,2024-08-15,Alimentação,Delivery,101.86,Cartão de crédito
+1768,2024-08-15,Transporte,Ônibus,11.27,Pix
+1769,2024-08-16,Transporte,Ônibus,28.0,Pix
+1770,2024-08-16,Moradia,Internet,2039.21,Boleto
+1771,2024-08-16,Transporte,Ônibus,14.24,Boleto
+1772,2024-08-17,Outros,Presente,73.71,Boleto
+1773,2024-08-17,Outros,Doação,27.09,Boleto
+1774,2024-08-17,Saúde,Consulta médica,685.09,Pix
+1775,2024-08-17,Serviços,Salão de beleza,325.34,Cartão de débito
+1776,2024-08-18,Vestuário,Acessórios,215.36,Cartão de débito
+1777,2024-08-18,Alimentação,Delivery,35.49,Boleto
+1778,2024-08-18,Moradia,Energia elétrica,1004.47,Dinheiro
+1779,2024-08-18,Saúde,Dentista,762.83,Boleto
+1780,2024-08-19,Lazer,Jogos,18.49,Pix
+1781,2024-08-19,Saúde,Farmácia,781.88,Cartão de crédito
+1782,2024-08-20,Lazer,Streaming,189.47,Pix
+1783,2024-08-20,Alimentação,Lanchonete,197.73,Dinheiro
+1784,2024-08-21,Moradia,Energia elétrica,1433.72,Cartão de crédito
+1785,2024-08-21,Alimentação,Supermercado,176.77,Cartão de crédito
+1786,2024-08-21,Lazer,Jogos,260.78,Cartão de débito
+1787,2024-08-21,Serviços,Salão de beleza,120.43,Dinheiro
+1788,2024-08-21,Saúde,Farmácia,700.53,Cartão de débito
+1789,2024-08-21,Moradia,Condomínio,1960.85,Boleto
+1790,2024-08-22,Vestuário,Roupas,139.71,Boleto
+1791,2024-08-23,Educação,Mensalidade curso,799.42,Pix
+1792,2024-08-23,Educação,Livros,264.15,Pix
+1793,2024-08-23,Transporte,Pedágio,77.03,Cartão de crédito
+1794,2024-08-24,Outros,Diversos,249.9,Boleto
+1795,2024-08-24,Transporte,Pedágio,173.36,Pix
+1796,2024-08-24,Lazer,Viagem,185.45,Cartão de débito
+1797,2024-08-24,Alimentação,Supermercado,68.75,Cartão de crédito
+1798,2024-08-24,Saúde,Consulta médica,396.49,Cartão de débito
+1799,2024-08-24,Lazer,Cinema,19.05,Boleto
+1800,2024-08-24,Vestuário,Roupas,216.01,Pix
+1801,2024-08-25,Lazer,Bar,277.62,Dinheiro
+1802,2024-08-25,Vestuário,Acessórios,220.95,Pix
+1803,2024-08-26,Outros,Diversos,135.91,Cartão de crédito
+1804,2024-08-26,Saúde,Farmácia,126.61,Dinheiro
+1805,2024-08-26,Vestuário,Acessórios,384.06,Boleto
+1806,2024-08-27,Moradia,Condomínio,143.17,Cartão de débito
+1807,2024-08-27,Lazer,Viagem,41.98,Pix
+1808,2024-08-28,Alimentação,Padaria,158.61,Boleto
+1809,2024-08-28,Saúde,Dentista,545.61,Dinheiro
+1810,2024-08-28,Alimentação,Supermercado,182.58,Dinheiro
+1811,2024-08-29,Outros,Diversos,47.01,Boleto
+1812,2024-08-29,Educação,Plataforma online,668.01,Boleto
+1813,2024-08-30,Transporte,Manutenção do veículo,149.95,Dinheiro
+1814,2024-08-31,Alimentação,Delivery,31.81,Boleto
+1815,2024-08-31,Lazer,Show,256.76,Dinheiro
+1816,2024-08-31,Serviços,Assinatura de app,213.27,Pix
+1817,2024-09-01,Lazer,Bar,40.84,Dinheiro
+1818,2024-09-01,Transporte,Combustível,164.39,Cartão de crédito
+1819,2024-09-01,Vestuário,Roupas,116.02,Dinheiro
+1820,2024-09-01,Lazer,Streaming,195.83,Boleto
+1821,2024-09-02,Saúde,Exames,214.6,Cartão de débito
+1822,2024-09-02,Alimentação,Lanchonete,44.08,Cartão de débito
+1823,2024-09-03,Moradia,Internet,2130.19,Boleto
+1824,2024-09-03,Saúde,Dentista,178.79,Dinheiro
+1825,2024-09-03,Alimentação,Restaurante,201.49,Boleto
+1826,2024-09-03,Alimentação,Padaria,163.16,Boleto
+1827,2024-09-04,Lazer,Streaming,264.61,Pix
+1828,2024-09-04,Alimentação,Feira,181.88,Pix
+1829,2024-09-04,Transporte,Ônibus,124.0,Cartão de débito
+1830,2024-09-05,Serviços,Salão de beleza,286.17,Boleto
+1831,2024-09-05,Educação,Mensalidade curso,684.35,Cartão de crédito
+1832,2024-09-05,Moradia,Gás,2179.81,Boleto
+1833,2024-09-05,Transporte,Pedágio,92.92,Cartão de crédito
+1834,2024-09-06,Lazer,Bar,274.86,Pix
+1835,2024-09-07,Alimentação,Delivery,85.36,Dinheiro
+1836,2024-09-08,Alimentação,Supermercado,122.92,Pix
+1837,2024-09-08,Transporte,Manutenção do veículo,146.54,Cartão de débito
+1838,2024-09-08,Alimentação,Restaurante,199.74,Pix
+1839,2024-09-08,Lazer,Show,182.06,Dinheiro
+1840,2024-09-08,Serviços,Lavanderia,363.3,Cartão de débito
+1841,2024-09-09,Alimentação,Restaurante,163.61,Pix
+1842,2024-09-09,Saúde,Exames,25.99,Boleto
+1843,2024-09-09,Saúde,Plano de saúde,818.7,Dinheiro
+1844,2024-09-09,Alimentação,Supermercado,93.72,Cartão de crédito
+1845,2024-09-10,Transporte,Pedágio,20.98,Boleto
+1846,2024-09-10,Saúde,Exames,444.06,Cartão de crédito
+1847,2024-09-10,Transporte,Manutenção do veículo,52.27,Cartão de crédito
+1848,2024-09-10,Moradia,Água,1568.86,Cartão de crédito
+1849,2024-09-11,Moradia,Aluguel,1761.36,Boleto
+1850,2024-09-11,Educação,Plataforma online,286.84,Pix
+1851,2024-09-11,Alimentação,Delivery,149.56,Boleto
+1852,2024-09-11,Alimentação,Lanchonete,102.87,Boleto
+1853,2024-09-11,Vestuário,Calçados,348.46,Dinheiro
+1854,2024-09-12,Lazer,Show,269.02,Cartão de débito
+1855,2024-09-12,Lazer,Streaming,18.99,Dinheiro
+1856,2024-09-13,Vestuário,Roupas,115.41,Boleto
+1857,2024-09-13,Serviços,Salão de beleza,95.41,Pix
+1858,2024-09-13,Alimentação,Padaria,75.3,Dinheiro
+1859,2024-09-13,Transporte,Aplicativo de transporte,37.21,Boleto
+1860,2024-09-14,Serviços,Assinatura de app,270.31,Dinheiro
+1861,2024-09-15,Educação,Livros,526.07,Cartão de débito
+1862,2024-09-15,Alimentação,Delivery,151.55,Cartão de débito
+1863,2024-09-15,Moradia,Água,445.06,Cartão de débito
+1864,2024-09-16,Educação,Plataforma online,346.12,Pix
+1865,2024-09-16,Transporte,Estacionamento,16.06,Pix
+1866,2024-09-16,Moradia,Energia elétrica,2109.56,Boleto
+1867,2024-09-17,Transporte,Combustível,67.75,Cartão de débito
+1868,2024-09-17,Educação,Livros,676.86,Dinheiro
+1869,2024-09-17,Educação,Mensalidade curso,821.13,Boleto
+1870,2024-09-17,Saúde,Plano de saúde,686.7,Pix
+1871,2024-09-17,Alimentação,Padaria,218.47,Cartão de débito
+1872,2024-09-18,Outros,Presente,203.7,Boleto
+1873,2024-09-18,Transporte,Aplicativo de transporte,124.11,Dinheiro
+1874,2024-09-18,Outros,Imprevisto,227.22,Cartão de débito
+1875,2024-09-19,Transporte,Manutenção do veículo,73.77,Pix
+1876,2024-09-19,Vestuário,Calçados,361.44,Cartão de débito
+1877,2024-09-20,Educação,Material escolar,546.63,Cartão de crédito
+1878,2024-09-20,Alimentação,Delivery,41.75,Cartão de débito
+1879,2024-09-20,Serviços,Lavanderia,358.16,Cartão de débito
+1880,2024-09-20,Alimentação,Supermercado,190.7,Dinheiro
+1881,2024-09-20,Lazer,Bar,305.51,Boleto
+1882,2024-09-20,Alimentação,Supermercado,144.29,Cartão de crédito
+1883,2024-09-21,Saúde,Dentista,342.2,Boleto
+1884,2024-09-21,Transporte,Estacionamento,172.54,Cartão de débito
+1885,2024-09-21,Moradia,Água,990.35,Dinheiro
+1886,2024-09-21,Saúde,Exames,453.76,Dinheiro
+1887,2024-09-21,Transporte,Aplicativo de transporte,174.65,Dinheiro
+1888,2024-09-22,Saúde,Farmácia,360.01,Pix
+1889,2024-09-22,Vestuário,Calçados,239.89,Dinheiro
+1890,2024-09-22,Lazer,Cinema,277.29,Cartão de crédito
+1891,2024-09-22,Alimentação,Supermercado,32.14,Boleto
+1892,2024-09-22,Serviços,Assinatura de app,374.96,Boleto
+1893,2024-09-22,Outros,Diversos,109.37,Pix
+1894,2024-09-22,Transporte,Combustível,62.51,Dinheiro
+1895,2024-09-23,Alimentação,Lanchonete,36.93,Cartão de crédito
+1896,2024-09-23,Educação,Livros,671.05,Boleto
+1897,2024-09-24,Alimentação,Lanchonete,144.39,Cartão de débito
+1898,2024-09-24,Moradia,Energia elétrica,1541.97,Cartão de crédito
+1899,2024-09-24,Alimentação,Supermercado,38.37,Dinheiro
+1900,2024-09-24,Vestuário,Roupas,203.93,Pix
+1901,2024-09-24,Transporte,Estacionamento,103.35,Pix
+1902,2024-09-24,Alimentação,Restaurante,119.8,Pix
+1903,2024-09-24,Lazer,Cinema,295.78,Boleto
+1904,2024-09-25,Transporte,Estacionamento,96.45,Dinheiro
+1905,2024-09-25,Educação,Mensalidade curso,671.23,Dinheiro
+1906,2024-09-25,Educação,Livros,850.0,Dinheiro
+1907,2024-09-25,Vestuário,Acessórios,270.53,Dinheiro
+1908,2024-09-25,Saúde,Dentista,650.03,Boleto
+1909,2024-09-25,Transporte,Aplicativo de transporte,131.94,Boleto
+1910,2024-09-26,Alimentação,Supermercado,88.6,Dinheiro
+1911,2024-09-26,Educação,Plataforma online,629.02,Dinheiro
+1912,2024-09-26,Alimentação,Delivery,207.39,Cartão de débito
+1913,2024-09-26,Moradia,Água,282.82,Boleto
+1914,2024-09-26,Serviços,Manutenção doméstica,81.91,Boleto
+1915,2024-09-27,Alimentação,Supermercado,211.82,Cartão de débito
+1916,2024-09-27,Serviços,Salão de beleza,373.17,Boleto
+1917,2024-09-27,Educação,Mensalidade curso,349.05,Dinheiro
+1918,2024-09-27,Moradia,Aluguel,595.48,Cartão de crédito
+1919,2024-09-27,Outros,Doação,23.69,Boleto
+1920,2024-09-28,Transporte,Ônibus,11.98,Dinheiro
+1921,2024-09-28,Educação,Plataforma online,731.76,Dinheiro
+1922,2024-09-29,Educação,Mensalidade curso,164.82,Boleto
+1923,2024-09-29,Lazer,Jogos,58.11,Cartão de crédito
+1924,2024-09-30,Lazer,Cinema,51.24,Dinheiro
+1925,2024-09-30,Educação,Material escolar,280.71,Dinheiro
+1926,2024-09-30,Lazer,Show,93.06,Cartão de débito
+1927,2024-10-01,Outros,Imprevisto,99.68,Boleto
+1928,2024-10-02,Alimentação,Restaurante,150.39,Cartão de débito
+1929,2024-10-02,Transporte,Manutenção do veículo,98.36,Cartão de débito
+1930,2024-10-02,Outros,Imprevisto,144.02,Cartão de crédito
+1931,2024-10-02,Vestuário,Roupas,351.33,Pix
+1932,2024-10-02,Alimentação,Feira,155.9,Pix
+1933,2024-10-03,Lazer,Bar,246.62,Cartão de crédito
+1934,2024-10-03,Educação,Mensalidade curso,545.82,Pix
+1935,2024-10-03,Educação,Livros,291.55,Cartão de crédito
+1936,2024-10-03,Alimentação,Feira,56.13,Cartão de débito
+1937,2024-10-03,Serviços,Assinatura de app,72.41,Cartão de crédito
+1938,2024-10-03,Educação,Plataforma online,541.3,Cartão de débito
+1939,2024-10-04,Educação,Plataforma online,321.13,Cartão de crédito
+1940,2024-10-04,Moradia,Energia elétrica,1914.28,Dinheiro
+1941,2024-10-04,Saúde,Farmácia,127.15,Dinheiro
+1942,2024-10-05,Saúde,Farmácia,705.83,Cartão de débito
+1943,2024-10-06,Lazer,Viagem,251.25,Cartão de débito
+1944,2024-10-06,Saúde,Consulta médica,759.91,Cartão de crédito
+1945,2024-10-06,Alimentação,Lanchonete,167.64,Pix
+1946,2024-10-06,Alimentação,Supermercado,193.32,Cartão de débito
+1947,2024-10-07,Outros,Presente,140.48,Dinheiro
+1948,2024-10-07,Saúde,Exames,619.46,Pix
+1949,2024-10-07,Moradia,Aluguel,1439.13,Dinheiro
+1950,2024-10-08,Educação,Mensalidade curso,99.98,Boleto
+1951,2024-10-08,Transporte,Pedágio,147.14,Dinheiro
+1952,2024-10-08,Lazer,Jogos,221.76,Cartão de débito
+1953,2024-10-09,Alimentação,Delivery,57.99,Pix
+1954,2024-10-10,Lazer,Bar,212.53,Boleto
+1955,2024-10-10,Moradia,Internet,1618.84,Cartão de débito
+1956,2024-10-10,Transporte,Ônibus,160.08,Boleto
+1957,2024-10-10,Transporte,Pedágio,13.01,Pix
+1958,2024-10-10,Lazer,Show,73.75,Boleto
+1959,2024-10-10,Moradia,Aluguel,1312.22,Pix
+1960,2024-10-10,Serviços,Assinatura de app,408.1,Pix
+1961,2024-10-11,Moradia,Aluguel,666.56,Pix
+1962,2024-10-11,Transporte,Combustível,113.57,Cartão de crédito
+1963,2024-10-12,Vestuário,Acessórios,336.99,Cartão de débito
+1964,2024-10-13,Transporte,Manutenção do veículo,13.08,Boleto
+1965,2024-10-13,Transporte,Pedágio,145.37,Cartão de débito
+1966,2024-10-14,Alimentação,Feira,50.13,Dinheiro
+1967,2024-10-14,Moradia,Gás,1039.87,Boleto
+1968,2024-10-15,Serviços,Assinatura de app,72.5,Pix
+1969,2024-10-15,Saúde,Exames,581.46,Cartão de crédito
+1970,2024-10-15,Saúde,Exames,531.9,Boleto
+1971,2024-10-15,Outros,Presente,218.07,Dinheiro
+1972,2024-10-16,Alimentação,Restaurante,167.02,Cartão de débito
+1973,2024-10-16,Saúde,Plano de saúde,189.1,Cartão de débito
+1974,2024-10-16,Alimentação,Padaria,197.24,Pix
+1975,2024-10-16,Transporte,Estacionamento,73.01,Boleto
+1976,2024-10-16,Outros,Doação,165.8,Boleto
+1977,2024-10-16,Saúde,Consulta médica,797.77,Pix
+1978,2024-10-16,Outros,Doação,33.39,Cartão de débito
+1979,2024-10-17,Saúde,Consulta médica,658.42,Dinheiro
+1980,2024-10-17,Transporte,Combustível,98.58,Boleto
+1981,2024-10-17,Alimentação,Padaria,131.48,Dinheiro
+1982,2024-10-18,Moradia,Aluguel,866.97,Boleto
+1983,2024-10-18,Educação,Mensalidade curso,640.64,Dinheiro
+1984,2024-10-18,Educação,Mensalidade curso,503.87,Boleto
+1985,2024-10-19,Outros,Imprevisto,125.91,Pix
+1986,2024-10-19,Vestuário,Acessórios,365.46,Boleto
+1987,2024-10-20,Moradia,Condomínio,641.55,Boleto
+1988,2024-10-20,Moradia,Condomínio,1917.72,Cartão de crédito
+1989,2024-10-20,Vestuário,Acessórios,347.14,Boleto
+1990,2024-10-20,Educação,Material escolar,755.08,Dinheiro
+1991,2024-10-20,Saúde,Exames,762.07,Boleto
+1992,2024-10-21,Outros,Imprevisto,95.46,Dinheiro
+1993,2024-10-21,Vestuário,Calçados,45.45,Pix
+1994,2024-10-21,Alimentação,Lanchonete,37.56,Pix
+1995,2024-10-21,Outros,Presente,41.72,Pix
+1996,2024-10-22,Vestuário,Roupas,122.14,Pix
+1997,2024-10-22,Vestuário,Roupas,250.68,Boleto
+1998,2024-10-22,Transporte,Pedágio,106.27,Pix
+1999,2024-10-22,Outros,Presente,155.4,Cartão de débito
+2000,2024-10-22,Outros,Doação,34.06,Cartão de crédito
+2001,2024-10-23,Alimentação,Restaurante,199.07,Dinheiro
+2002,2024-10-23,Serviços,Salão de beleza,312.22,Cartão de crédito
+2003,2024-10-24,Alimentação,Lanchonete,107.21,Cartão de crédito
+2004,2024-10-24,Saúde,Farmácia,258.21,Dinheiro
+2005,2024-10-24,Vestuário,Acessórios,58.13,Cartão de débito
+2006,2024-10-26,Moradia,Aluguel,376.33,Pix
+2007,2024-10-26,Transporte,Manutenção do veículo,128.15,Pix
+2008,2024-10-26,Moradia,Energia elétrica,498.27,Cartão de crédito
+2009,2024-10-28,Lazer,Viagem,83.8,Cartão de crédito
+2010,2024-10-28,Moradia,Condomínio,978.97,Cartão de débito
+2011,2024-10-29,Serviços,Manutenção doméstica,180.78,Cartão de crédito
+2012,2024-10-30,Outros,Imprevisto,220.82,Cartão de débito
+2013,2024-10-30,Moradia,Água,1531.56,Dinheiro
+2014,2024-10-30,Outros,Imprevisto,10.13,Pix
+2015,2024-10-31,Serviços,Lavanderia,76.94,Boleto
+2016,2024-10-31,Alimentação,Padaria,200.97,Cartão de crédito
+2017,2024-10-31,Educação,Plataforma online,551.33,Cartão de débito
+2018,2024-11-01,Alimentação,Delivery,87.83,Pix
+2019,2024-11-02,Saúde,Dentista,612.07,Cartão de crédito
+2020,2024-11-02,Alimentação,Restaurante,149.09,Dinheiro
+2021,2024-11-04,Alimentação,Feira,219.68,Pix
+2022,2024-11-04,Moradia,Aluguel,2179.26,Cartão de débito
+2023,2024-11-04,Serviços,Lavanderia,292.66,Pix
+2024,2024-11-04,Outros,Imprevisto,154.45,Pix
+2025,2024-11-04,Educação,Livros,505.4,Dinheiro
+2026,2024-11-05,Lazer,Show,21.86,Cartão de débito
+2027,2024-11-05,Moradia,Energia elétrica,1792.62,Cartão de débito
+2028,2024-11-05,Outros,Presente,53.14,Pix
+2029,2024-11-05,Alimentação,Feira,131.57,Cartão de crédito
+2030,2024-11-05,Serviços,Assinatura de app,106.72,Cartão de crédito
+2031,2024-11-05,Saúde,Exames,140.38,Pix
+2032,2024-11-05,Transporte,Estacionamento,151.73,Cartão de débito
+2033,2024-11-06,Serviços,Lavanderia,90.18,Pix
+2034,2024-11-06,Saúde,Farmácia,73.89,Pix
+2035,2024-11-06,Educação,Plataforma online,452.6,Dinheiro
+2036,2024-11-06,Alimentação,Restaurante,32.01,Cartão de crédito
+2037,2024-11-07,Moradia,Aluguel,1704.03,Cartão de débito
+2038,2024-11-07,Alimentação,Restaurante,47.05,Cartão de débito
+2039,2024-11-07,Alimentação,Feira,123.91,Boleto
+2040,2024-11-07,Alimentação,Supermercado,157.66,Pix
+2041,2024-11-08,Transporte,Aplicativo de transporte,139.1,Boleto
+2042,2024-11-08,Lazer,Jogos,161.99,Dinheiro
+2043,2024-11-08,Moradia,Água,1746.7,Cartão de crédito
+2044,2024-11-09,Alimentação,Supermercado,146.1,Cartão de crédito
+2045,2024-11-09,Moradia,Condomínio,878.87,Dinheiro
+2046,2024-11-09,Outros,Diversos,66.83,Pix
+2047,2024-11-09,Alimentação,Padaria,43.51,Dinheiro
+2048,2024-11-09,Saúde,Consulta médica,225.77,Cartão de crédito
+2049,2024-11-09,Vestuário,Roupas,122.47,Cartão de débito
+2050,2024-11-10,Vestuário,Roupas,284.29,Dinheiro
+2051,2024-11-10,Educação,Plataforma online,339.08,Boleto
+2052,2024-11-10,Educação,Plataforma online,192.36,Boleto
+2053,2024-11-12,Saúde,Plano de saúde,169.67,Pix
+2054,2024-11-12,Moradia,Energia elétrica,1374.92,Pix
+2055,2024-11-13,Moradia,Internet,790.42,Boleto
+2056,2024-11-13,Alimentação,Delivery,113.26,Pix
+2057,2024-11-14,Saúde,Plano de saúde,522.71,Cartão de crédito
+2058,2024-11-15,Transporte,Manutenção do veículo,99.75,Cartão de débito
+2059,2024-11-15,Transporte,Pedágio,47.06,Boleto
+2060,2024-11-16,Serviços,Manutenção doméstica,409.16,Cartão de débito
+2061,2024-11-16,Alimentação,Delivery,110.5,Boleto
+2062,2024-11-17,Alimentação,Restaurante,69.73,Pix
+2063,2024-11-17,Serviços,Salão de beleza,373.24,Cartão de débito
+2064,2024-11-17,Lazer,Cinema,162.85,Cartão de crédito
+2065,2024-11-17,Alimentação,Padaria,42.83,Dinheiro
+2066,2024-11-18,Educação,Livros,370.61,Cartão de crédito
+2067,2024-11-18,Lazer,Cinema,70.08,Boleto
+2068,2024-11-19,Lazer,Jogos,29.85,Cartão de crédito
+2069,2024-11-19,Alimentação,Delivery,92.42,Cartão de débito
+2070,2024-11-19,Alimentação,Delivery,128.94,Dinheiro
+2071,2024-11-19,Lazer,Cinema,187.37,Boleto
+2072,2024-11-20,Educação,Mensalidade curso,75.99,Cartão de débito
+2073,2024-11-20,Lazer,Bar,105.72,Boleto
+2074,2024-11-20,Lazer,Bar,119.31,Cartão de débito
+2075,2024-11-20,Outros,Diversos,53.4,Dinheiro
+2076,2024-11-20,Alimentação,Supermercado,124.55,Dinheiro
+2077,2024-11-21,Lazer,Show,271.62,Dinheiro
+2078,2024-11-21,Transporte,Estacionamento,14.02,Pix
+2079,2024-11-22,Serviços,Assinatura de app,213.81,Boleto
+2080,2024-11-22,Transporte,Manutenção do veículo,9.38,Pix
+2081,2024-11-22,Saúde,Farmácia,389.7,Boleto
+2082,2024-11-23,Alimentação,Restaurante,165.39,Pix
+2083,2024-11-23,Transporte,Ônibus,176.11,Cartão de crédito
+2084,2024-11-24,Saúde,Exames,627.91,Dinheiro
+2085,2024-11-25,Moradia,Gás,614.23,Boleto
+2086,2024-11-25,Transporte,Aplicativo de transporte,98.78,Boleto
+2087,2024-11-25,Transporte,Combustível,97.79,Cartão de crédito
+2088,2024-11-25,Moradia,Água,1366.34,Boleto
+2089,2024-11-26,Vestuário,Calçados,82.88,Cartão de crédito
+2090,2024-11-27,Moradia,Água,214.68,Boleto
+2091,2024-11-27,Lazer,Cinema,281.31,Boleto
+2092,2024-11-28,Transporte,Pedágio,105.2,Cartão de crédito
+2093,2024-11-28,Alimentação,Padaria,91.36,Dinheiro
+2094,2024-11-28,Moradia,Aluguel,1324.07,Dinheiro
+2095,2024-11-29,Serviços,Manutenção doméstica,380.42,Cartão de crédito
+2096,2024-11-29,Serviços,Assinatura de app,499.73,Pix
+2097,2024-11-30,Transporte,Aplicativo de transporte,164.75,Cartão de débito
+2098,2024-11-30,Moradia,Gás,2194.21,Cartão de débito
+2099,2024-11-30,Transporte,Pedágio,151.89,Pix
+2100,2024-11-30,Vestuário,Acessórios,104.35,Cartão de débito
+2101,2024-12-01,Educação,Plataforma online,118.02,Cartão de débito
+2102,2024-12-01,Saúde,Farmácia,79.42,Pix
+2103,2024-12-01,Educação,Livros,592.71,Boleto
+2104,2024-12-02,Moradia,Gás,1554.23,Cartão de débito
+2105,2024-12-02,Transporte,Combustível,101.62,Pix
+2106,2024-12-02,Transporte,Combustível,137.6,Cartão de crédito
+2107,2024-12-02,Transporte,Ônibus,165.33,Cartão de crédito
+2108,2024-12-02,Lazer,Bar,125.57,Boleto
+2109,2024-12-02,Moradia,Condomínio,507.61,Dinheiro
+2110,2024-12-03,Transporte,Manutenção do veículo,128.32,Cartão de crédito
+2111,2024-12-03,Lazer,Cinema,154.44,Boleto
+2112,2024-12-03,Educação,Mensalidade curso,887.07,Cartão de crédito
+2113,2024-12-04,Transporte,Pedágio,122.67,Cartão de débito
+2114,2024-12-04,Alimentação,Feira,31.29,Cartão de débito
+2115,2024-12-04,Outros,Imprevisto,116.55,Pix
+2116,2024-12-04,Educação,Mensalidade curso,409.34,Cartão de débito
+2117,2024-12-04,Serviços,Salão de beleza,414.94,Dinheiro
+2118,2024-12-05,Transporte,Aplicativo de transporte,26.94,Cartão de crédito
+2119,2024-12-05,Saúde,Exames,167.3,Cartão de crédito
+2120,2024-12-06,Saúde,Consulta médica,265.29,Pix
+2121,2024-12-06,Lazer,Streaming,174.76,Dinheiro
+2122,2024-12-06,Educação,Livros,64.42,Cartão de crédito
+2123,2024-12-07,Alimentação,Delivery,78.9,Pix
+2124,2024-12-07,Alimentação,Feira,59.36,Pix
+2125,2024-12-07,Transporte,Aplicativo de transporte,82.59,Pix
+2126,2024-12-07,Alimentação,Lanchonete,202.81,Pix
+2127,2024-12-07,Alimentação,Supermercado,106.08,Boleto
+2128,2024-12-07,Serviços,Assinatura de app,403.95,Cartão de crédito
+2129,2024-12-07,Vestuário,Acessórios,388.45,Boleto
+2130,2024-12-07,Transporte,Ônibus,143.28,Pix
+2131,2024-12-07,Transporte,Combustível,14.17,Cartão de crédito
+2132,2024-12-08,Alimentação,Padaria,117.87,Dinheiro
+2133,2024-12-08,Alimentação,Lanchonete,188.65,Cartão de débito
+2134,2024-12-08,Alimentação,Lanchonete,59.17,Dinheiro
+2135,2024-12-08,Transporte,Estacionamento,10.72,Pix
+2136,2024-12-08,Educação,Material escolar,345.73,Cartão de débito
+2137,2024-12-09,Transporte,Ônibus,121.19,Dinheiro
+2138,2024-12-09,Transporte,Pedágio,174.34,Dinheiro
+2139,2024-12-09,Transporte,Combustível,100.13,Cartão de crédito
+2140,2024-12-10,Transporte,Estacionamento,121.86,Pix
+2141,2024-12-10,Educação,Plataforma online,883.1,Dinheiro
+2142,2024-12-10,Educação,Plataforma online,599.16,Cartão de crédito
+2143,2024-12-10,Transporte,Aplicativo de transporte,114.19,Dinheiro
+2144,2024-12-11,Alimentação,Feira,29.52,Cartão de crédito
+2145,2024-12-11,Serviços,Manutenção doméstica,314.58,Cartão de débito
+2146,2024-12-11,Vestuário,Acessórios,175.55,Boleto
+2147,2024-12-12,Educação,Livros,920.66,Pix
+2148,2024-12-12,Alimentação,Delivery,25.68,Cartão de débito
+2149,2024-12-12,Alimentação,Delivery,56.77,Pix
+2150,2024-12-13,Lazer,Cinema,130.13,Dinheiro
+2151,2024-12-14,Lazer,Bar,274.34,Cartão de crédito
+2152,2024-12-14,Lazer,Viagem,30.88,Cartão de crédito
+2153,2024-12-14,Serviços,Lavanderia,356.53,Cartão de crédito
+2154,2024-12-15,Moradia,Condomínio,669.09,Pix
+2155,2024-12-15,Outros,Doação,140.18,Cartão de crédito
+2156,2024-12-15,Moradia,Internet,1010.0,Cartão de crédito
+2157,2024-12-15,Lazer,Viagem,290.18,Dinheiro
+2158,2024-12-15,Educação,Plataforma online,174.57,Cartão de débito
+2159,2024-12-16,Moradia,Condomínio,2101.27,Cartão de crédito
+2160,2024-12-16,Transporte,Combustível,34.66,Pix
+2161,2024-12-17,Transporte,Manutenção do veículo,69.56,Boleto
+2162,2024-12-17,Moradia,Internet,657.16,Dinheiro
+2163,2024-12-17,Transporte,Pedágio,176.14,Dinheiro
+2164,2024-12-18,Vestuário,Roupas,126.82,Dinheiro
+2165,2024-12-18,Lazer,Viagem,126.35,Pix
+2166,2024-12-18,Lazer,Streaming,296.56,Dinheiro
+2167,2024-12-18,Saúde,Plano de saúde,257.65,Boleto
+2168,2024-12-19,Alimentação,Feira,193.79,Cartão de débito
+2169,2024-12-20,Alimentação,Restaurante,167.73,Pix
+2170,2024-12-20,Lazer,Viagem,49.76,Cartão de crédito
+2171,2024-12-21,Alimentação,Padaria,202.6,Pix
+2172,2024-12-21,Moradia,Internet,419.99,Dinheiro
+2173,2024-12-21,Saúde,Farmácia,832.42,Pix
+2174,2024-12-21,Educação,Mensalidade curso,822.95,Dinheiro
+2175,2024-12-22,Alimentação,Lanchonete,159.52,Dinheiro
+2176,2024-12-22,Outros,Presente,104.94,Pix
+2177,2024-12-22,Vestuário,Roupas,253.89,Cartão de crédito
+2178,2024-12-22,Alimentação,Restaurante,160.41,Cartão de débito
+2179,2024-12-22,Transporte,Combustível,131.37,Pix
+2180,2024-12-23,Moradia,Aluguel,100.5,Cartão de débito
+2181,2024-12-23,Moradia,Aluguel,1384.54,Cartão de crédito
+2182,2024-12-23,Moradia,Gás,372.71,Cartão de crédito
+2183,2024-12-24,Transporte,Combustível,155.43,Cartão de débito
+2184,2024-12-25,Alimentação,Feira,59.84,Pix
+2185,2024-12-25,Alimentação,Lanchonete,79.97,Cartão de débito
+2186,2024-12-25,Moradia,Condomínio,1560.04,Dinheiro
+2187,2024-12-25,Alimentação,Delivery,144.17,Pix
+2188,2024-12-25,Moradia,Energia elétrica,601.37,Pix
+2189,2024-12-25,Lazer,Viagem,221.86,Dinheiro
+2190,2024-12-26,Saúde,Farmácia,251.31,Boleto
+2191,2024-12-26,Saúde,Farmácia,416.79,Pix
+2192,2024-12-26,Educação,Material escolar,703.65,Dinheiro
+2193,2024-12-26,Moradia,Aluguel,1346.06,Cartão de crédito
+2194,2024-12-27,Alimentação,Lanchonete,126.15,Cartão de débito
+2195,2024-12-27,Moradia,Gás,1539.6,Cartão de crédito
+2196,2024-12-27,Alimentação,Supermercado,53.86,Cartão de débito
+2197,2024-12-29,Lazer,Streaming,228.57,Pix
+2198,2024-12-29,Moradia,Internet,888.92,Cartão de débito
+2199,2024-12-31,Transporte,Estacionamento,100.29,Pix
+2200,2024-12-31,Transporte,Estacionamento,98.56,Pix
